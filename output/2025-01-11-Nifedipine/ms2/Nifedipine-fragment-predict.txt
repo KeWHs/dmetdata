@@ -1,0 +1,1653 @@
+0 347.124 COC(=O)C1=C(C)NC(C)=C(C(=O)[OH+]C)C1c1ccccc1[N+](=O)[O-]
+1 17.0386 [CH5+]
+2 15.0229 [CH3+]
+3 318.121 C=c1nc(C)c(=C(O)OC)c(=C2C=CCCC2[N+]([O-])O)c1=C=[OH+]
+4 18.01 [OH2+]
+5 19.0178 [OH3+]
+6 301.118 C=[O+]C(O)=c1c(C)nc(=C)c(=C)c1=C1C=CC=CC1N(O)O
+7 300.11 [CH]=c1c(=C)nc(C)c(=C(O)[O+]=C)c1=C1C=CC=CC1N(O)O
+8 288.11 C=[O+]C(O)=C1C(C)=NC(=C)[CH]C1=C1C=CC=CC1N(O)O
+9 289.118 C=[O+]C(O)=C1C(C)=NC(=C)CC1=C1C=CC=CC1N(O)O
+10 29.0022 [CH+]=O
+11 31.0178 C=[OH+]
+12 30.01 C=[O+]
+13 290.126 C=c1cc(C2C=CC=CC2[N+](O)O)c(=C(O)OC)c(C)n1
+14 286.095 C=[O+]C(O)=c1c(-c2ccccc2N(O)O)[c]c(=C)nc1C
+15 287.103 C=[O+]C(O)=c1c(-c2ccccc2N(O)O)cc(=C)nc1C
+16 27.9944 [C]#[O+]
+17 33.0335 C[OH2+]
+18 32.0257 C[OH+]
+19 16.0308 [CH4+]
+20 303.098 C=[O+]C(O)=C1C(C)=NCC(=C=O)C1=C1C=CC=CC1N(O)O
+21 302.09 C=[O+]C(O)=C1C(C)=N[CH]C(=C=O)C1=C1C=CC=CC1N(O)O
+22 303.098 C=c1ncc(=C(O)OC)c(=C2C=CC=CC2[NH+](O)O)c1=C=O
+23 302.09 C=c1ncc(=C(O)OC)c(=C2C=CC=CC2[N+](O)O)c1=C=O
+24 62.0362 COC[OH+]
+25 63.0441 COC[OH2+]
+26 60.0206 COC=[O+]
+27 61.0284 COC=[OH+]
+28 58.0049 C=[O+][C]=O
+29 59.0128 C=[O+]C=O
+30 257.092 C=C1N=C(C)CC(=C2C=CC=CC2[N+](=O)O)C1=C=O
+31 256.084 [CH]=C1N=C(C)CC(=C2C=CC=CC2[N+](=O)O)C1=C=O
+32 259.108 C=C1N=C(C)CC(=C2C=CC=CC2[NH+](O)O)C1=C=O
+33 258.1 C=C1N=C(C)CC(=C2C=CC=CC2[N+](O)O)C1=C=O
+34 261.123 C=C1N=C(C)CC(=C2C=CCCC2[NH+](O)O)C1=C=O
+35 260.116 C=C1N=C(C)CC(=C2C=CCCC2[N+](O)O)C1=C=O
+36 301.118 C=c1nc(C)c(=COC)c(=C2C=CC=CC2[NH+](O)O)c1=C=O
+37 300.11 C=c1nc(C)c(=COC)c(=C2C=CC=CC2[N+](O)O)c1=C=O
+38 287.103 C=c1nc(C)c(=C=O)c(=C2C=CCCC2[NH+](O)O)c1=C=O
+39 286.095 C=c1nc(C)c(=C=O)c(=C2C=CCCC2[N+](O)O)c1=C=O
+40 289.118 C=c1nc(C)c(=C=O)c(=C2CCCCC2[NH+](O)O)c1=C=O
+41 288.11 C=c1nc(C)c(=C=O)c(=C2CCCCC2[N+](O)O)c1=C=O
+42 290.126 C=C1N=C(C)C(=C=O)C(C2CCCCC2[N+](O)O)C1=C=O
+43 303.098 C=c1nc(C)c(=C(O)O)c(=C2C=CC=CC2[NH+](O)O)c1=C=O
+44 302.09 C=c1nc(C)c(=C(O)O)c(=C2C=CC=CC2[N+](O)O)c1=C=O
+45 127.063 O[N+](O)C1C=CC=CC1
+46 128.071 O[NH+](O)C1C=CC=CC1
+47 125.047 O[N+](O)c1ccccc1
+48 126.055 O[NH+](O)c1ccccc1
+49 123.031 O=[N+](O)c1[c]cccc1
+50 124.039 O=[N+](O)c1ccccc1
+51 192.066 C=[O+]C(O)=C1CC(=C=O)C(=C)N=C1C
+52 191.058 [CH]=C1N=C(C)C(=C(O)[O+]=C)CC1=C=O
+53 194.081 C=C1N=C(C)C(=C(O)OC)CC1=C=[OH+]
+54 193.073 C=C1N=C(C)C(=C(O)OC)CC1=C=[O+]
+55 196.097 C=C1N=C(C)C(C(O)OC)CC1=C=[OH+]
+56 195.089 C=C1N=C(C)C(C(O)OC)CC1=C=[O+]
+57 129.078 O[N+](O)C1C=CCCC1
+58 130.086 O[NH+](O)C1C=CCCC1
+59 190.05 C=[O+]C(=O)c1cc(=C=O)c(=C)nc1C
+60 189.042 [CH]=c1nc(C)c(C(=O)[O+]=C)cc1=C=O
+61 49.0158 O[NH+]O
+62 50.0237 O[NH2+]O
+63 47.0002 O=[N+]O
+64 48.008 O=[NH+]O
+65 45.9924 O=[N+]=O
+66 270.112 C=c1nc(C)c(=C(O)OC)c(=C2C=CC=CC2)c1=C=[OH+]
+67 269.105 C=c1nc(C)c(=C(O)OC)c(=C2C=CC=CC2)c1=C=[O+]
+68 272.128 C=c1nc(C)c(=C(O)OC)c(=C2C=CCCC2)c1=C=[OH+]
+69 271.12 C=c1nc(C)c(=C(O)OC)c(=C2C=CCCC2)c1=C=[O+]
+70 301.118 C=c1nc(C)c(=C(O)OC)c(=C2C=CC=CC2[NH2+]O)c1=C=O
+71 300.11 C=c1nc(C)c(=C(O)OC)c(=C2C=CC=CC2[NH+]O)c1=C=O
+72 318.121 C=C(C=C=O)N=C(C)C(C=C1C=CC=CC1[N+](O)O)=C(O)OC Intermediate Fragment
+73 276.11 C=[C]N=C(C)C(C=C1C=CC=CC1N(O)O)=C(O)[O+]=C
+74 277.118 C=CN=C(C)C(C=C1C=CC=CC1N(O)O)=C(O)[O+]=C
+75 41.0022 [CH+]=C=O
+76 43.0178 C=C=[OH+]
+77 42.01 C=C=[O+]
+78 274.095 C#C[N+]=C(C)C(=C=C1C=CC=CC1N(O)O)C(=O)OC
+79 275.103 C#C[NH+]=C(C)C(=C=C1C=CC=CC1N(O)O)C(=O)OC
+80 272.079 [C]#CN=C(C)C(=C=C1C=CC=CC1N(O)O)C(=O)[O+]=C
+81 273.087 C#CN=C(C)C(=C=C1C=CC=CC1N(O)O)C(=O)[O+]=C
+82 45.0335 CC=[OH+]
+83 44.0257 CC=[O+]
+84 47.0491 CC[OH2+]
+85 46.0413 CC[OH+]
+86 252.11 COC(O)=C(C=C1C=CC=CC1N(O)O)C(C)=[NH+]
+87 253.118 COC(O)=C(C=C1C=CC=CC1N(O)O)C(C)=[NH2+]
+88 250.095 C=[O+]C(O)=C(C=C1C=CC=CC1N(O)O)C(C)=[N]
+89 251.103 C=[O+]C(O)=C(C=C1C=CC=CC1N(O)O)C(C)=N
+90 65.0022 [CH+]=C=C=C=O
+91 67.0178 C=C=C=C=[OH+]
+92 66.01 C=C=C=C=[O+]
+93 69.0335 CC=C=C=[OH+]
+94 68.0257 CC=C=C=[O+]
+95 248.079 C=[O+]C(=O)C(=C=C1C=CC=CC1N(O)O)C(C)=[N]
+96 249.087 C=[O+]C(=O)C(=C=C1C=CC=CC1N(O)O)C(C)=N
+97 71.0491 CCC=C=[OH+]
+98 70.0413 CCC=C=[O+]
+99 235.084 C=[C]C(C=C1C=CC=CC1N(O)O)=C(O)[O+]=C
+100 236.092 C=CC(C=C1C=CC=CC1N(O)O)=C(O)[O+]=C
+101 82.0287 C=C(N)[C+]=C=O
+102 81.0209 [CH]=C(N)[C+]=C=O
+103 84.0444 C=C([NH3+])C=C=O
+104 83.0366 C=C([NH2+])C=C=O
+105 233.068 C#CC(=C=C1C=CC=CC1[N+](O)O)C(=O)OC
+106 234.076 C#CC(=C=C1C=CC=CC1[NH+](O)O)C(=O)OC
+107 231.053 [C]#CC(=C=C1C=CC=CC1N(O)O)C(=O)[O+]=C
+108 232.06 C#CC(=C=C1C=CC=CC1N(O)O)C(=O)[O+]=C
+109 86.06 CC([NH3+])C=C=O
+110 85.0522 CC([NH2+])C=C=O
+111 88.0757 CC([NH3+])CC=O
+112 87.0679 CC([NH2+])CC=O
+113 211.084 COC(O)=C=C=C1C=CCCC1[N+](O)O
+114 212.092 COC(O)=C=C=C1C=CCCC1[NH+](O)O
+115 209.068 COC(O)=C=C=C1C=CC=CC1[N+](O)O
+116 210.076 COC(O)=C=C=C1C=CC=CC1[NH+](O)O
+117 207.053 C=[O+]C([O])=C=C=C1C=CC=CC1N(O)O
+118 208.06 C=[O+]C(O)=C=C=C1C=CC=CC1N(O)O
+119 106.029 C=C=NC(=C)[C+]=C=O
+120 105.021 [CH]=C([C+]=C=O)N=C=C
+121 108.044 C=C=[NH+]C(=C)C=C=O
+122 107.037 C=C=[N+]C(=C)C=C=O
+123 110.06 C=C(C=C=O)[NH+]=CC
+124 109.052 C=C(C=C=O)[N+]=CC
+125 112.076 C=C(C=C=O)[NH2+]CC
+126 111.068 C=C(C=C=O)[NH+]CC
+127 205.037 [CH]=[O+]C(=O)C#Cc1ccccc1N(O)O
+128 206.045 C=[O+]C(=O)C#Cc1ccccc1N(O)O
+129 114.091 CC[NH2+]C(C)C=C=O
+130 113.084 CC[NH+]C(C)C=C=O
+131 139.063 C=C1C=CC=CC1[N+](O)O
+132 140.071 C=C1C=CC=CC1[NH+](O)O
+133 137.047 [CH]=C1C=CC=CC1[N+](=O)O
+134 138.055 C=C1C=CC=CC1[N+](=O)O
+135 180.066 C=[O+]C(O)=CC(C)=NC(=C)C=C=O
+136 179.058 C=[O+]C(O)=CC(C)=NC(=C)[C]=C=O
+137 182.081 C=C(C=C=O)[NH+]=C(C)C=C(O)OC
+138 181.073 C=C(C=C=O)[N+]=C(C)C=C(O)OC
+139 316.105 C=[O+]C(O)=C(C=C1C=CC=CC1N(O)O)C(C)=NC(=C)[C]=C=O
+140 317.113 C=[O+]C(O)=C(C=C1C=CC=CC1N(O)O)C(C)=NC(=C)C=C=O
+141 318.121 C=C(N=C(C)C=C(O)OC)C(=C=O)C=C1C=CC=CC1[N+](O)O Intermediate Fragment
+142 143.094 C=C[N+]=C(C)CC(O)OC
+143 144.102 C=C[NH+]=C(C)CC(O)OC
+144 141.078 C=C[N+]=C(C)C=C(O)OC
+145 142.086 C=C[NH+]=C(C)C=C(O)OC
+146 139.063 C=[C]N=C(C)C=C(O)[O+]=C
+147 140.071 C=CN=C(C)C=C(O)[O+]=C
+148 176.034 O=C=C=C=C1C=CC=CC1[N+](=O)O
+149 175.026 O=C=C=C=C1[C]=CC=CC1[N+](=O)O
+150 178.05 O=C=C=C=C1C=CC=CC1[NH+](O)O
+151 177.042 O=C=C=C=C1C=CC=CC1[N+](O)O
+152 180.066 O=C=CC=C1C=CC=CC1[NH+](O)O
+153 179.058 O=C=CC=C1C=CC=CC1[N+](O)O
+154 137.047 [C]#CN=C(C)C=C(O)[O+]=C
+155 138.055 C#CN=C(C)C=C(O)[O+]=C
+156 182.081 O=C=CC=C1C=CCCC1[NH+](O)O
+157 181.073 O=C=CC=C1C=CCCC1[N+](O)O
+158 115.063 COC(O)=CC(C)=[NH+]
+159 116.071 COC(O)=CC(C)=[NH2+]
+160 113.047 C=[O+]C(O)=CC(C)=[N]
+161 114.055 C=[O+]C(O)=CC(C)=N
+162 204.066 C=CC(=C=O)C=C1C=CC=CC1[N+](=O)O
+163 203.058 C=[C]C(=C=O)C=C1C=CC=CC1[N+](=O)O
+164 206.081 C=CC(=C=O)C=C1C=CC=CC1[NH+](O)O
+165 205.073 C=CC(=C=O)C=C1C=CC=CC1[N+](O)O
+166 117.078 COC(O)CC(C)=[NH+]
+167 118.086 COC(O)CC(C)=[NH2+]
+168 202.05 C#CC(=C=O)C=C1C=CC=CC1[N+](=O)O
+169 201.042 [C]#CC(=C=O)C=C1C=CC=CC1[N+](=O)O
+170 100.052 C=C=CC([OH+])OC
+171 101.06 C=C=CC([OH2+])OC
+172 98.0362 C=C=C=C([OH+])OC
+173 99.0441 C=C=C=C([OH2+])OC
+174 96.0206 [CH]=C=C=C(O)[O+]=C
+175 97.0284 C=C=C=C(O)[O+]=C
+176 219.076 C=C(N)C(=C=O)C=C1C=CC=CC1[N+](=O)O
+177 218.069 [CH]=C(N)C(=C=O)C=C1C=CC=CC1[N+](=O)O
+178 221.092 C=C([NH3+])C(=C=O)C=C1C=CC=CC1N(O)O
+179 220.084 C=C([NH2+])C(=C=O)C=C1C=CC=CC1N(O)O
+180 223.108 C=C([NH3+])C(=C=O)C=C1C=CCCC1N(O)O
+181 222.1 C=C([NH2+])C(=C=O)C=C1C=CCCC1N(O)O
+182 76.0519 COC(C)[OH+]
+183 77.0597 COC(C)[OH2+]
+184 74.0362 C=C([OH+])OC
+185 75.0441 C=C([OH2+])OC
+186 72.0206 [CH]=C(O)[O+]=C
+187 73.0284 C=[O+]C(=C)O
+188 243.076 C=C=NC(=C)C(=C=O)C=C1C=CC=CC1[N+](=O)O
+189 242.069 [CH]=C(N=C=C)C(=C=O)C=C1C=CC=CC1[N+](=O)O
+190 245.092 C=C=[NH+]C(=C)C(=C=O)C=C1C=CC=CC1N(O)O
+191 244.084 C=C=[N+]C(=C)C(=C=O)C=C1C=CC=CC1N(O)O
+192 247.108 C=C=[NH+]C(=C)C(=C=O)C=C1C=CCCC1N(O)O
+193 246.1 C=C=[N+]C(=C)C(=C=O)C=C1C=CCCC1N(O)O
+194 316.105 [CH]=C(N=C(C)C=C(O)[O+]=C)C(=C=O)C=C1C=CC=CC1N(O)O
+195 317.113 C=[O+]C(O)=CC(C)=NC(=C)C(=C=O)C=C1C=CC=CC1N(O)O
+196 318.121 C=C=NC(=C)C(=C=O)C(C=C(O)OC)=C1C=CCCC1[N+](O)O Intermediate Fragment
+197 69.0573 C=C[N+]=CC
+198 70.0651 C=C[NH+]=CC
+199 67.0417 C=C=[N+]C=C
+200 68.0495 C=C=[NH+]C=C
+201 65.026 [CH]=C=[N+]=C=C
+202 66.0338 C=C=[N+]=C=C
+203 250.071 C=[O+]C(O)=CC(C=C=O)=C1C=CC=CC1N(O)O
+204 249.063 C=[O+]C(O)=CC([C]=C=O)=C1C=CC=CC1N(O)O
+205 252.087 COC(O)=CC(C=C=O)=C1C=CC=CC1[NH+](O)O
+206 251.079 COC(O)=CC(C=C=O)=C1C=CC=CC1[N+](O)O
+207 254.102 COC(O)=CC(C=C=O)=C1C=CCCC1[NH+](O)O
+208 253.094 COC(O)=CC(C=C=O)=C1C=CCCC1[N+](O)O
+209 71.073 C=C[NH+]CC
+210 72.0808 C=C[NH2+]CC
+211 63.0104 [C+]#CN=C=[CH]
+212 64.0182 [C+]#CN=C=C
+213 248.055 C=[O+]C(O)=C=C(C=C=O)c1ccccc1N(O)O
+214 247.048 C=[O+]C(O)=C=C([C]=C=O)c1ccccc1N(O)O
+215 43.0417 CC=[NH+]
+216 44.0495 CC=[NH2+]
+217 41.026 C=C=[NH+]
+218 42.0338 C=C=[NH2+]
+219 39.0104 [CH+]=C=[N]
+220 40.0182 [CH+]=C=N
+221 276.087 C=CC(=C=O)C(C=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+222 275.079 C=[C]C(=C=O)C(C=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+223 278.102 C=CC(=C=O)C(C=C(O)OC)=C1C=CC=CC1[NH+](O)O
+224 277.094 C=CC(=C=O)C(C=C(O)OC)=C1C=CC=CC1[N+](O)O
+225 45.0573 CC[NH2+]
+226 46.0651 CC[NH3+]
+227 274.071 C#CC(=C=O)C(=C=C(O)OC)c1ccccc1[NH+](O)O
+228 273.063 C#CC(=C=O)C(=C=C(O)OC)c1ccccc1[N+](O)O
+229 28.0308 [CH2][CH2+]
+230 29.0386 C=[CH3+]
+231 26.0151 [CH]=[CH+]
+232 27.0229 [CH+]=C
+233 291.098 C=[O+]C(O)=CC(C(=C=O)C(=C)N)=C1C=CC=CC1N(O)O
+234 290.09 [CH]=C(N)C(=C=O)C(C=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+235 30.0464 C[CH3+]
+236 31.0542 C[CH4+]
+237 23.9995 [C]#[C+]
+238 25.0073 [C+]#C
+239 289.082 C=[O+]C(O)=C=C(C(=C=O)C(=C)N)c1ccccc1N(O)O
+240 288.074 [CH]=C(N)C(=C=O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+241 293.113 C=C([NH3+])C(=C=O)C(=C=C(O)OC)C1=CC=CCC1N(O)O
+242 292.105 C=C([NH2+])C(=C=O)C(=C=C(O)OC)C1=CC=CCC1N(O)O
+243 316.105 C=C=[N+]C(=C)C(=C=O)C(C=C(O)OC)=C1C=CC=CC1N(O)O
+244 317.113 C=C=[NH+]C(=C)C(=C=O)C(C=C(O)OC)=C1C=CC=CC1N(O)O
+245 318.121 C=CC(=C(O)OC)C(C(=C=O)C(=C)N)=C1C=CC=CC1[N+](O)O Intermediate Fragment
+246 276.087 C=CC(=C(O)[O+]=C)C(C=C=O)=C1C=CC=CC1N(O)O
+247 275.079 C=CC(=C(O)[O+]=C)C([C]=C=O)=C1C=CC=CC1N(O)O
+248 278.102 C=CC(=C(O)OC)C(C=C=O)=C1C=CC=CC1[NH+](O)O
+249 277.094 C=CC(=C(O)OC)C(C=C=O)=C1C=CC=CC1[N+](O)O
+250 274.071 C#CC(=C(O)[O+]=C)C(C=C=O)=C1C=CC=CC1N(O)O
+251 273.063 C#CC(=C(O)[O+]=C)C([C]=C=O)=C1C=CC=CC1N(O)O
+252 17.026 [NH3+]
+253 18.0338 [NH4+]
+254 302.102 C=CC(=C=O)C(C(C=C)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+255 301.094 C=[C]C(=C=O)C(C(C=C)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+256 316.105 [CH]=C(N)C(=C=O)C(C(C=C)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+257 317.113 C=CC(=C(O)[O+]=C)C(C(=C=O)C(=C)N)=C1C=CC=CC1N(O)O
+258 318.121 C=CC(=C=O)C(C(C(C)=N)=C(O)OC)=C1C=CC=CC1[N+](O)O Intermediate Fragment
+259 291.098 C=[O+]C(O)=C(C(C)=N)C(C=C=O)=C1C=CC=CC1N(O)O
+260 290.09 C=[O+]C(O)=C(C(C)=N)C([C]=C=O)=C1C=CC=CC1N(O)O
+261 289.082 C=[O+]C(O)=C(C(C)=N)C(=C=C=O)c1ccccc1N(O)O
+262 288.074 C=[O+]C(O)=C(C(C)=[N])C(=C=C=O)c1ccccc1N(O)O
+263 293.113 COC(O)=C(C(C)=[NH2+])C(=C=C=O)C1C=CC=CC1N(O)O
+264 292.105 COC(O)=C(C(C)=[NH+])C(=C=C=O)C1C=CC=CC1N(O)O
+265 316.105 C=[C]C(=C=O)C(C(C(C)=N)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+266 317.113 C=CC(=C=O)C(C(C(C)=N)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+267 318.121 C=CN=C(C)C(=C(O)OC)C(C=C=O)=C1C=CC=CC1[N+](O)O Intermediate Fragment
+268 316.105 C=CN=C(C)C(=C(O)[O+]=C)C([C]=C=O)=C1C=CC=CC1N(O)O
+269 317.113 C=CN=C(C)C(=C(O)[O+]=C)C(C=C=O)=C1C=CC=CC1N(O)O
+270 318.121 C=C=CC(C(C)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O Intermediate Fragment
+271 303.098 C=C=C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+272 302.09 C=C=C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+273 302.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C)C(=C=C)N(O)O)c1=C=O
+274 303.098 C=C=C(C(C)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+275 300.074 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C2CC=C=C2N(O)O)c1=C=O Cyclization Fragment
+276 301.082 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=C1CC=C=C1N(O)O Cyclization Fragment
+277 290.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C)C(=C)N(O)O)c1=C=O
+278 291.098 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=C(C)C(=C)N(O)O
+279 292.105 C=C(c1c(C(=O)OC)c(C)nc(=C)c1=C=O)C(C)[N+](O)O
+280 293.113 C=C(c1c(C(=O)OC)c(C)nc(=C)c1=C=O)C(C)[NH+](O)O
+281 288.074 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C(=C)C(=C)N(O)O)c1=C=O
+282 289.082 C=[O+]C(=O)c1c(C)nc(=C)c(=C=O)c1C(=C)C(=C)N(O)O
+283 278.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C)CN(O)O)c1=C=O
+284 279.098 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=C(C)CN(O)O
+285 39.0229 [CH+]=C=C
+286 38.0151 [CH]=C=[CH+]
+287 41.0386 C=C=[CH3+]
+288 40.0308 C=[C][CH2+]
+289 276.074 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C(=C)CN(O)O)c1=C=O
+290 277.082 C=[O+]C(=O)c1c(C)nc(=C)c(=C=O)c1C(=C)CN(O)O
+291 43.0542 CC=[CH3+]
+292 42.0464 [CH2+][CH]C
+293 221.105 C=C1N=C(C)C(=C(O)OC)C(CC)C1=C=[O+]
+294 222.112 C=C1N=C(C)C(=C(O)OC)C(CC)C1=C=[OH+]
+295 219.089 C=c1nc(C)c(=C(O)OC)c(=CC)c1=C=[O+]
+296 220.097 C=c1nc(C)c(=C(O)OC)c(=CC)c1=C=[OH+]
+297 217.073 C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]
+298 218.081 C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[OH+]
+299 215.058 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C=C)c1=C=O
+300 216.066 C=C=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+301 98.0237 C=C=C=C[N+](=O)O
+302 97.0158 [CH]=C=C=C[N+](=O)O
+303 100.039 C=C=C=C[NH+](O)O
+304 99.0315 C=C=C=C[N+](O)O
+305 102.055 C=C=CC[NH+](O)O
+306 101.047 C=C=CC[N+](O)O
+307 104.071 C=CCC[NH+](O)O
+308 103.063 C=CCC[N+](O)O
+309 223.12 C=C1N=C(C)C(C(O)OC)C(CC)C1=C=[O+]
+310 224.128 C=C1N=C(C)C(C(O)OC)C(CC)C1=C=[OH+]
+311 213.042 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C#C)c1=C=O
+312 214.05 C#Cc1c(C(=O)[O+]=C)c(C)nc(=C)c1=C=O
+313 96.008 C#CC#C[N+](=O)O
+314 95.0002 [C]#CC#C[N+](=O)O
+315 106.086 CCCC[NH+](O)O
+316 105.078 CCCC[N+](O)O
+317 316.105 C=C=C=C(C(C)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+318 317.113 C=C=C=C(C(C)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+319 318.121 C=CC(=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)C(C=C)[N+](O)O Intermediate Fragment
+320 289.082 C=C=C(C=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+321 288.074 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=CC(=C=C)N(O)O)c1=C=O
+322 291.098 C=C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+323 290.09 C=C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+324 293.113 C=CC(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+325 292.105 C=CC(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+326 302.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C=C)C(=C)N(O)O)c1=C=O
+327 303.098 C=CC(C(=C)N(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+328 290.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C=C)CN(O)O)c1=C=O
+329 291.098 C=CC(CN(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+330 292.105 C=CC(C[N+](O)O)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O
+331 293.113 C=CC(C[NH+](O)O)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O
+332 288.074 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C#C)CN(O)O)c1=C=O
+333 289.082 C#CC(CN(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+334 233.105 C=c1nc(C)c(=C(O)OC)c(=CCC)c1=C=[O+]
+335 234.112 C=c1nc(C)c(=C(O)OC)c(=CCC)c1=C=[OH+]
+336 231.089 C=c1nc(C)c(=C(O)OC)c(=C=CC)c1=C=[O+]
+337 232.097 C=c1nc(C)c(=C(O)OC)c(=C=CC)c1=C=[OH+]
+338 229.073 C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]
+339 230.081 C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[OH+]
+340 227.058 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C=C=C)c1=C=O
+341 228.066 C=C=C=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+342 86.0237 C=C=C[N+](=O)O
+343 85.0158 [CH]=C=C[N+](=O)O
+344 88.0393 C=C=C[NH+](O)O
+345 87.0315 C=C=C[N+](O)O
+346 90.055 C=CC[NH+](O)O
+347 89.0471 C=CC[N+](O)O
+348 92.0706 CCC[NH+](O)O
+349 91.0628 CCC[N+](O)O
+350 316.105 C=C=C(C(C=C)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+351 317.113 C=C=C(C(C=C)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+352 318.121 C=C=CC(=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)C(C)[N+](O)O Intermediate Fragment
+353 277.082 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=CC(=C)N(O)O
+354 276.074 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=CC(=C)N(O)O)c1=C=O
+355 279.098 C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+356 278.09 C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+357 302.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C=C=C)CN(O)O)c1=C=O
+358 303.098 C=C=CC(CN(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+359 245.105 C=c1nc(C)c(=C(O)OC)c(=C=CCC)c1=C=[O+]
+360 246.112 C=c1nc(C)c(=C(O)OC)c(=C=CCC)c1=C=[OH+]
+361 243.089 C=c1nc(C)c(=C(O)OC)c(=C=C=CC)c1=C=[O+]
+362 244.097 C=c1nc(C)c(=C(O)OC)c(=C=C=CC)c1=C=[OH+]
+363 241.073 C=C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]
+364 242.081 C=C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[OH+]
+365 74.0237 C=C[N+](=O)O
+366 73.0158 [CH]=C[N+](=O)O
+367 76.0393 C=C[NH+](O)O
+368 75.0315 C=C[N+](O)O
+369 78.055 CC[NH+](O)O
+370 77.0471 CC[N+](O)O
+371 247.12 C=c1nc(C)c(=C(O)OC)c(=CCCC)c1=C=[O+]
+372 248.128 C=c1nc(C)c(=C(O)OC)c(=CCCC)c1=C=[OH+]
+373 72.008 C#C[N+](=O)O
+374 71.0002 [C]#C[N+](=O)O
+375 316.105 C=C=CC(C(=C)[N+](O)O)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O
+376 317.113 C=C=CC(C(=C)[NH+](O)O)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O
+377 318.121 C=c1nc(C)c(=C(O)OC)c(=C(C=C=CC)C[N+](O)O)c1=C=O Intermediate Fragment
+378 56.0621 [CH2+][CH]CC
+379 57.0699 CCC=[CH3+]
+380 54.0464 [CH2+][C]=CC
+381 55.0542 CC=C=[CH3+]
+382 52.0308 C=C=[C][CH2+]
+383 53.0386 C=C=C=[CH3+]
+384 50.0151 [CH]=C=C=[CH+]
+385 51.0229 [CH+]=C=C=C
+386 263.066 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=C=CN(O)O
+387 262.058 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C=CN(O)O)c1=C=O
+388 265.082 C=c1nc(C)c(=C(O)OC)c(=C=C[NH+](O)O)c1=C=O
+389 264.074 C=c1nc(C)c(=C(O)OC)c(=C=C[N+](O)O)c1=C=O
+390 267.098 C=c1nc(C)c(=C(O)OC)c(=CC[NH+](O)O)c1=C=O
+391 266.09 C=c1nc(C)c(=C(O)OC)c(=CC[N+](O)O)c1=C=O
+392 58.0777 CCC[CH3+]
+393 59.0855 CCC[CH4+]
+394 47.9995 [C]#CC#[C+]
+395 49.0073 [C+]#CC#C
+396 261.051 C=[O+]C(=O)c1c(C)nc(=C)c(=C=O)c1C#CN(O)O
+397 260.043 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C#CN(O)O)c1=C=O
+398 269.113 C=C1N=C(C)C(C(=O)OC)C(CC[NH+](O)O)C1=C=O
+399 268.105 C=C1N=C(C)C(C(=O)OC)C(CC[N+](O)O)C1=C=O
+400 257.105 C=c1nc(C)c(=C(O)OC)c(=C=C=CCC)c1=C=[O+]
+401 258.112 C=c1nc(C)c(=C(O)OC)c(=C=C=CCC)c1=C=[OH+]
+402 255.089 C=c1nc(C)c(=C(O)OC)c(=C=C=C=CC)c1=C=[O+]
+403 256.097 C=c1nc(C)c(=C(O)OC)c(=C=C=C=CC)c1=C=[OH+]
+404 62.0237 C[N+](=O)O
+405 61.0158 [CH2][N+](=O)O
+406 64.0393 C[NH+](O)O
+407 63.0315 C[N+](O)O
+408 316.105 C=C=C=CC(C[N+](O)O)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O
+409 317.113 C=C=C=CC(C[NH+](O)O)=c1c(=C(O)OC)c(C)nc(=C)c1=C=O
+410 318.121 C=c1nc(C)c(=C(O)OC)c(=C=C=CCCC[N+](O)O)c1=C=O Intermediate Fragment
+411 115.063 C=C=CCC[N+](O)O
+412 116.071 C=C=CCC[NH+](O)O
+413 113.047 C=C=C=CC[N+](O)O
+414 114.055 C=C=C=CC[NH+](O)O
+415 111.031 C=C=C=C=C[N+](O)O
+416 112.039 C=C=C=C=C[NH+](O)O
+417 109.016 [CH]=C=C=C=C[N+](=O)O
+418 110.024 C=C=C=C=C[N+](=O)O
+419 204.066 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=C
+420 203.058 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C)c1=C=O
+421 206.081 C=c1nc(C)c(=C(O)OC)c(=C)c1=C=[OH+]
+422 205.073 C=c1nc(C)c(=C(O)OC)c(=C)c1=C=[O+]
+423 208.097 C=C1N=C(C)C(=C(O)OC)C(C)C1=C=[OH+]
+424 207.089 C=C1N=C(C)C(=C(O)OC)C(C)C1=C=[O+]
+425 210.112 C=C1N=C(C)C(C(O)OC)C(C)C1=C=[OH+]
+426 209.105 C=C1N=C(C)C(C(O)OC)C(C)C1=C=[O+]
+427 316.105 C=c1nc(C)c(=C(O)OC)c(=C=C=C=CCC[N+](O)O)c1=C=O
+428 317.113 C=c1nc(C)c(=C(O)OC)c(=C=C=C=CCC[NH+](O)O)c1=C=O
+429 318.121 C=C=CCC(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O Intermediate Fragment
+430 316.105 C=C=C=CC(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+431 317.113 C=C=C=CC(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+432 299.103 C=[O+]C(=O)c1c(C)nc(=C)c(=C)c1-c1ccccc1N(O)O
+433 298.095 [CH]=c1c(-c2ccccc2N(O)O)c(C(=O)[O+]=C)c(C)nc1=C
+434 301.082 C=[O+]C(O)=c1c(=C)ncc(=C=O)c1=C1C=CC=CC1N(O)O
+435 300.074 C=[O+]C(O)=c1c(=C)n[c]c(=C=O)c1=C1C=CC=CC1N(O)O
+436 301.082 C=[O+]C(O)=c1cnc(=C)c(=C=O)c1=C1C=CC=CC1N(O)O
+437 300.074 [CH]=c1ncc(=C(O)[O+]=C)c(=C2C=CC=CC2N(O)O)c1=C=O
+438 255.076 C=c1nc(C)cc(-c2ccccc2[N+](=O)O)c1=C=O
+439 254.069 [CH]=c1nc(C)cc(-c2ccccc2[N+](=O)O)c1=C=O
+440 299.103 C=[O+]C=c1c(C)nc(=C)c(=C=O)c1=C1C=CC=CC1N(O)O
+441 298.095 [CH]=c1nc(C)c(=C[O+]=C)c(=C2C=CC=CC2N(O)O)c1=C=O
+442 285.087 C=c1nc(C)c(=C=O)c(=C2C=CC=CC2[NH+](O)O)c1=C=O
+443 284.079 C=c1nc(C)c(=C=O)c(=C2C=CC=CC2[N+](O)O)c1=C=O
+444 301.082 C=c1nc(C)c(=C(O)O)c(=C2C=CC=CC2[N+](=O)O)c1=C=O
+445 300.074 [CH]=c1nc(C)c(=C(O)O)c(=C2C=CC=CC2[N+](=O)O)c1=C=O
+446 268.097 C=[O+]C(O)=c1c(C)nc(=C)c(=C=O)c1=C1C=CC=CC1
+447 267.089 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C2C=CC=CC2)c1=C=O
+448 299.103 C=c1nc(C)c(=C(O)OC)c(=C2C=CC=CC2=[NH+]O)c1=C=O
+449 298.095 C=c1nc(C)c(=C(O)OC)c(=C2C=CC=CC2=[N+]O)c1=C=O
+450 272.055 C#CC(=C=O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+451 271.048 [C]#CC(=C=O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+452 314.09 [CH]=C(N=C=C)C(=C=O)C(C=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+453 315.098 C=C=NC(=C)C(=C=O)C(C=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+454 272.055 C#CC(C(=C=C=O)c1ccccc1N(O)O)=C(O)[O+]=C
+455 271.048 [C]#CC(C(=C=C=O)c1ccccc1N(O)O)=C(O)[O+]=C
+456 300.087 C#CC(=C=O)C(C(C#C)=C(O)OC)=C1C=CC=CC1[NH+](O)O
+457 299.079 C#CC(=C=O)C(C(C#C)=C(O)OC)=C1C=CC=CC1[N+](O)O
+458 314.09 [CH]=C(N)C(=C=O)C(C(C#C)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+459 315.098 C#CC(=C(O)[O+]=C)C(C(=C=O)C(=C)N)=C1C=CC=CC1N(O)O
+460 314.09 [C]#CC(=C=O)C(C(C(C)=N)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+461 315.098 C#CC(=C=O)C(C(C(C)=N)=C(O)[O+]=C)=C1C=CC=CC1N(O)O
+462 314.09 C#CN=C(C)C(=C(O)[O+]=C)C([C]=C=O)=C1C=CC=CC1N(O)O
+463 315.098 C#CN=C(C)C(=C(O)[O+]=C)C(C=C=O)=C1C=CC=CC1N(O)O
+464 301.082 C=C=C=C(C=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+465 300.074 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=CC(=C=C=C)N(O)O)c1=C=O
+466 300.074 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C(=C)C(C#C)N(O)O)c1=C=O
+467 301.082 C#CC(C(=C)c1c(C(=O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+468 314.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C)C(=C=C=C)N(O)O)c1=C=O
+469 315.098 C=C=C=C(C(C)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+470 287.066 C#CC(=C=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+471 286.058 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C=C(C#C)N(O)O)c1=C=O
+472 300.074 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C#C)C(=C)N(O)O)c1=C=O
+473 301.082 C#CC(C(=C)N(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+474 286.058 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C(C#C)=CN(O)O)c1=C=O
+475 287.066 C#CC(=CN(O)O)c1c(C(=O)[O+]=C)c(C)nc(=C)c1=C=O
+476 314.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C=C)C(=C=C)N(O)O)c1=C=O
+477 315.098 C=C=C(C(C=C)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O)N(O)O
+478 300.074 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C(=C=C=C)CN(O)O)c1=C=O
+479 301.082 C=C=C=C(CN(O)O)c1c(C(=O)[O+]=C)c(C)nc(=C)c1=C=O
+480 298.058 [CH]=c1nc(C)c(C(=O)[O+]=C)c(C2=C=C=CC2N(O)O)c1=C=O Cyclization Fragment
+481 299.066 C=[O+]C(=O)c1c(C)nc(=C)c(=C=O)c1C1=C=C=CC1N(O)O Cyclization Fragment
+482 239.058 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C=C=C=C)c1=C=O
+483 240.066 C=C=C=C=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+484 314.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C=C=C)C(=C)N(O)O)c1=C=O
+485 315.098 C=C=CC(C(=C)N(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+486 253.073 C=C=C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]
+487 254.081 C=C=C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[OH+]
+488 314.09 [CH]=c1nc(C)c(=C(O)[O+]=C)c(=C(C=C=C=C)CN(O)O)c1=C=O
+489 315.098 C=C=C=CC(CN(O)O)=c1c(=C(O)[O+]=C)c(C)nc(=C)c1=C=O
+490 314.09 C=c1nc(C)c(=C(O)OC)c(=C=C=C=C=CC[N+](O)O)c1=C=O
+491 315.098 C=c1nc(C)c(=C(O)OC)c(=C=C=C=C=CC[NH+](O)O)c1=C=O
+492 314.09 C=C=C=C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[N+](O)O
+493 315.098 C=C=C=C=C(C=c1c(=C(O)OC)c(C)nc(=C)c1=C=O)[NH+](O)O
+494 273.087 C=[O+]C(O)=c1cnc(=C)cc1-c1ccccc1N(O)O
+495 272.079 C=[O+]C(O)=c1cnc(=C)[c]c1-c1ccccc1N(O)O
+496 229.097 C=C1C=C(c2ccccc2[N+](=O)O)CC(C)=N1
+497 228.089 C=C1[C]=C(c2ccccc2[N+](=O)O)CC(C)=N1
+498 231.113 C=C1C=C(c2ccccc2[NH+](O)O)CC(C)=N1
+499 230.105 C=C1C=C(c2ccccc2[N+](O)O)CC(C)=N1
+500 271.108 C=[O+]C=c1c(-c2ccccc2N(O)O)cc(=C)nc1C
+501 270.1 C=[O+]C=c1c(-c2ccccc2N(O)O)[c]c(=C)nc1C
+502 273.087 C=c1cc(-c2ccccc2[N+](=O)O)c(=C(O)O)c(C)n1
+503 272.079 C=c1[c]c(-c2ccccc2[N+](=O)O)c(=C(O)O)c(C)n1
+504 164.071 C=[O+]C(O)=c1ccc(=C)nc1C
+505 163.063 C=[O+]C(O)=c1c[c]c(=C)nc1C
+506 166.086 C=c1ccc(=C([OH2+])OC)c(C)n1
+507 165.078 C=c1ccc(=C([OH+])OC)c(C)n1
+508 240.102 C=[O+]C(O)=c1c(-c2ccccc2)cc(=C)nc1C
+509 239.094 C=[O+]C(O)=c1c(-c2ccccc2)[c]c(=C)nc1C
+510 242.118 C=c1cc(-c2ccccc2)c(=C([OH2+])OC)c(C)n1
+511 241.11 C=c1cc(-c2ccccc2)c(=C([OH+])OC)c(C)n1
+512 271.108 C=c1cc(-c2ccccc2[NH+]=O)c(=C(O)OC)c(C)n1
+513 270.1 C=c1cc(-c2ccccc2[N+]=O)c(=C(O)OC)c(C)n1
+514 288.11 [CH]=C(C)N=C(C)C(=C=C1C=CC=CC1N(O)O)C(=O)[O+]=C Intermediate Fragment
+515 56.0495 [CH+]=C(C)N
+516 55.0417 [CH+]=C([CH2])N
+517 58.0651 C=C(C)[NH3+]
+518 57.0573 C=C(C)[NH2+]
+519 80.0495 [CH+]=C(C)N=C=C
+520 79.0417 [CH+]=C([CH2])N=C=C
+521 82.0651 C=C=[NH+]C(=C)C
+522 81.0573 C=C=[N+]C(=C)C
+523 84.0808 C=C(C)[NH+]=CC
+524 83.073 C=C(C)[N+]=CC
+525 288.11 C=[O+]C(O)=CC(C)=NC(=C)[C]=Cc1ccccc1N(O)O Intermediate Fragment
+526 148.039 C#Cc1ccccc1[N+](=O)O
+527 147.031 [C]#Cc1ccccc1[N+](=O)O
+528 150.055 C#Cc1ccccc1[NH+](O)O
+529 149.047 C#Cc1ccccc1[N+](O)O
+530 152.071 C#CC1C=CC=CC1[NH+](O)O
+531 151.063 C#CC1C=CC=CC1[N+](O)O
+532 172.039 C#CC#Cc1ccccc1[N+](=O)O
+533 171.031 [C]#CC#Cc1ccccc1[N+](=O)O
+534 174.055 C#CC#Cc1ccccc1[NH+](O)O
+535 173.047 C#CC#Cc1ccccc1[N+](O)O
+536 176.071 C#CC#CC1C=CC=CC1[NH+](O)O
+537 175.063 C#CC#CC1C=CC=CC1[N+](O)O
+538 189.066 C=C(N)C#Cc1ccccc1[N+](=O)O
+539 188.058 [CH]=C(N)C#Cc1ccccc1[N+](=O)O
+540 191.082 C=C([NH3+])C#Cc1ccccc1N(O)O
+541 190.074 C=C([NH2+])C#Cc1ccccc1N(O)O
+542 193.097 C=C([NH3+])C#CC1C=CC=CC1N(O)O
+543 192.089 C=C([NH2+])C#CC1C=CC=CC1N(O)O
+544 213.066 C=C=NC(=C)C#Cc1ccccc1[N+](=O)O
+545 212.058 [CH]=C(C#Cc1ccccc1[N+](=O)O)N=C=C
+546 215.082 C=C=[NH+]C(=C)C#Cc1ccccc1N(O)O
+547 214.074 C=C=[N+]C(=C)C#Cc1ccccc1N(O)O
+548 217.097 C=C=[NH+]C(=C)C#CC1C=CC=CC1N(O)O
+549 216.089 C=C=[N+]C(=C)C#CC1C=CC=CC1N(O)O
+550 286.095 [CH]=C(C#Cc1ccccc1N(O)O)N=C(C)C=C(O)[O+]=C
+551 287.103 C=[O+]C(O)=CC(C)=NC(=C)C#Cc1ccccc1N(O)O
+552 288.11 C=C=NC(=C)C=C(C=C(O)OC)c1ccccc1[N+](O)O Intermediate Fragment
+553 222.076 C=[O+]C(O)=CC(=C)c1ccccc1N(O)O
+554 221.068 [CH]=C(C=C(O)[O+]=C)c1ccccc1N(O)O
+555 224.092 C=C(C=C(O)OC)c1ccccc1[NH+](O)O
+556 223.084 C=C(C=C(O)OC)c1ccccc1[N+](O)O
+557 246.076 C=C=C=C(C=C(O)[O+]=C)c1ccccc1N(O)O
+558 245.068 [CH]=C=C=C(C=C(O)[O+]=C)c1ccccc1N(O)O
+559 248.092 C=C=C=C(C=C(O)OC)c1ccccc1[NH+](O)O
+560 247.084 C=C=C=C(C=C(O)OC)c1ccccc1[N+](O)O
+561 263.103 C=[O+]C(O)=C=C(C=C(C)N)c1ccccc1N(O)O
+562 262.095 C=[O+]C(O)=C=C([C]=C(C)N)c1ccccc1N(O)O
+563 286.095 C=C=NC(=C)[C]=C(C=C(O)[O+]=C)c1ccccc1N(O)O
+564 287.103 C=C=NC(=C)C=C(C=C(O)[O+]=C)c1ccccc1N(O)O
+565 288.11 C=CC(C(=[C]C(=C)N)c1ccccc1N(O)O)=C(O)[O+]=C Intermediate Fragment
+566 246.076 C#CC(C(=C)c1ccccc1N(O)O)=C(O)[O+]=C
+567 245.068 [CH]=C(C(C#C)=C(O)[O+]=C)c1ccccc1N(O)O
+568 248.092 C#CC(C(=C)c1ccccc1[NH+](O)O)=C(O)OC
+569 247.084 C#CC(C(=C)c1ccccc1[N+](O)O)=C(O)OC
+570 272.092 C#CC(=C(O)[O+]=C)C(C#CC)=C1C=CC=CC1N(O)O
+571 271.084 C#CC(=C(O)[O+]=C)C(C#C[CH2])=C1C=CC=CC1N(O)O
+572 286.095 C#CC(C(=C=C([CH2])N)c1ccccc1N(O)O)=C(O)[O+]=C
+573 287.103 C#CC(C(=C=C(C)N)c1ccccc1N(O)O)=C(O)[O+]=C
+574 288.11 C=C=C=C(C(C(C)=N)=C(O)OC)c1ccccc1[N+](O)O Intermediate Fragment
+575 263.103 C=[O+]C(O)=C(C(=C)c1ccccc1N(O)O)C(C)=N
+576 262.095 [CH]=C(C(C(C)=N)=C(O)[O+]=C)c1ccccc1N(O)O
+577 286.095 [CH]=C=C=C(C(C(C)=N)=C(O)[O+]=C)c1ccccc1N(O)O
+578 287.103 C=C=C=C(C(C(C)=N)=C(O)[O+]=C)c1ccccc1N(O)O
+579 288.11 [CH]=C(C(C(C)=NC=C)=C(O)[O+]=C)c1ccccc1N(O)O Intermediate Fragment
+580 286.095 [CH]=C(C(C(C)=NC#C)=C(O)[O+]=C)c1ccccc1N(O)O
+581 287.103 C#CN=C(C)C(C(=C)c1ccccc1N(O)O)=C(O)[O+]=C
+582 288.11 C=C=C=C(C(=C)c1cc(=C)nc(C)c1=C(O)OC)[N+](O)O Intermediate Fragment
+583 262.095 C=[O+]C(O)=c1c(C(=C)C(=C)N(O)O)[c]c(=C)nc1C
+584 263.103 C=[O+]C(O)=c1c(C(=C)C(=C)N(O)O)cc(=C)nc1C
+585 191.094 C=Cc1cc(=C)nc(C)c1=C([OH+])OC
+586 192.102 C=Cc1cc(=C)nc(C)c1=C([OH2+])OC
+587 189.078 C=Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C
+588 190.086 C=Cc1cc(=C)nc(C)c1=C(O)[O+]=C
+589 193.11 C=CC1CC(=C)N=C(C)C1=C([OH+])OC
+590 194.118 C=CC1CC(=C)N=C(C)C1=C([OH2+])OC
+591 187.063 C#Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C
+592 188.071 C#Cc1cc(=C)nc(C)c1=C(O)[O+]=C
+593 286.095 C=C=C=C(C(=C)c1[c]c(=C)nc(C)c1=C(O)[O+]=C)N(O)O
+594 287.103 C=C=C=C(C(=C)c1cc(=C)nc(C)c1=C(O)[O+]=C)N(O)O
+595 288.11 C=C=C(C(=C=C)[N+](O)O)c1cc(=C)nc(C)c1=C(O)OC Intermediate Fragment
+596 261.087 C#CC(=C=c1cc(C)nc(C)c1=C(O)[O+]=C)N(O)O
+597 260.079 C#CC(=C=c1[c]c(C)nc(C)c1=C(O)[O+]=C)N(O)O
+598 263.103 C#CC(=C=c1cc(C)nc(C)c1=C(O)OC)[NH+](O)O
+599 262.095 C#CC(=C=c1cc(C)nc(C)c1=C(O)OC)[N+](O)O
+600 262.095 C#CC(=C[N+](O)O)c1cc(=C)nc(C)c1=C(O)OC
+601 263.103 C#CC(=C[NH+](O)O)c1cc(=C)nc(C)c1=C(O)OC
+602 260.079 C#CC(=CN(O)O)c1[c]c(=C)nc(C)c1=C(O)[O+]=C
+603 261.087 C#CC(=CN(O)O)c1cc(=C)nc(C)c1=C(O)[O+]=C
+604 203.094 C=C=Cc1cc(=C)nc(C)c1=C([OH+])OC
+605 204.102 C=C=Cc1cc(=C)nc(C)c1=C([OH2+])OC
+606 201.078 C=C=Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C
+607 202.086 C=C=Cc1cc(=C)nc(C)c1=C(O)[O+]=C
+608 286.095 C=C=C(C(=C=C)N(O)O)c1[c]c(=C)nc(C)c1=C(O)[O+]=C
+609 287.103 C=C=C(C(=C=C)N(O)O)c1cc(=C)nc(C)c1=C(O)[O+]=C
+610 288.11 C=C=C=C(C(=C)[N+](O)O)c1cc(=C)nc(C)c1=C(O)OC Intermediate Fragment
+611 215.094 C=C=C=Cc1cc(=C)nc(C)c1=C([OH+])OC
+612 216.102 C=C=C=Cc1cc(=C)nc(C)c1=C([OH2+])OC
+613 213.078 C=C=C=Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C
+614 214.086 C=C=C=Cc1cc(=C)nc(C)c1=C(O)[O+]=C
+615 217.11 C=CC#CC1CC(=C)N=C(C)C1=C([OH+])OC
+616 218.118 C=CC#CC1CC(=C)N=C(C)C1=C([OH2+])OC
+617 211.063 C#CC#Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C
+618 212.071 C#CC#Cc1cc(=C)nc(C)c1=C(O)[O+]=C
+619 286.095 C=C=C=C(C(=C)N(O)O)c1[c]c(=C)nc(C)c1=C(O)[O+]=C
+620 287.103 C=C=C=C(C(=C)N(O)O)c1cc(=C)nc(C)c1=C(O)[O+]=C
+621 288.11 C=C=C=C=C(C[N+](O)O)c1cc(=C)nc(C)c1=C(O)OC Intermediate Fragment
+622 237.087 C=[O+]C(O)=c1c(C=CN(O)O)cc(=C)nc1C
+623 236.079 C=[O+]C(O)=c1c(C=CN(O)O)[c]c(=C)nc1C
+624 235.071 C=[O+]C(O)=c1c(C#CN(O)O)cc(=C)nc1C
+625 234.064 C=[O+]C(O)=c1c(C#CN(O)O)[c]c(=C)nc1C
+626 239.103 C=c1cc(C=C[NH+](O)O)c(=C(O)OC)c(C)n1
+627 238.095 C=c1cc(C=C[N+](O)O)c(=C(O)OC)c(C)n1
+628 227.094 C=C=C=C=Cc1cc(=C)nc(C)c1=C([OH+])OC
+629 228.102 C=C=C=C=Cc1cc(=C)nc(C)c1=C([OH2+])OC
+630 225.078 C=C=C=C=Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C
+631 226.086 C=C=C=C=Cc1cc(=C)nc(C)c1=C(O)[O+]=C
+632 286.095 C=C=C=C=C(CN(O)O)c1[c]c(=C)nc(C)c1=C(O)[O+]=C
+633 287.103 C=C=C=C=C(CN(O)O)c1cc(=C)nc(C)c1=C(O)[O+]=C
+634 288.11 C=c1cc(C=C=C=CC=C[N+](O)O)c(=C(O)OC)c(C)n1 Intermediate Fragment
+635 178.086 C=[O+]C(O)=c1c(C)cc(=C)nc1C
+636 177.078 C=[O+]C(O)=c1c(C)[c]c(=C)nc1C
+637 180.102 C=c1cc(C)c(=C([OH2+])OC)c(C)n1
+638 179.094 C=c1cc(C)c(=C([OH+])OC)c(C)n1
+639 286.095 C=c1cc(C=C=C=C=C=C[N+](O)O)c(=C(O)OC)c(C)n1
+640 287.103 C=c1cc(C=C=C=C=C=C[NH+](O)O)c(=C(O)OC)c(C)n1
+641 288.11 C=C=C=C=C(Cc1cc(=C)nc(C)c1=C(O)OC)[N+](O)O Intermediate Fragment
+642 286.095 C=C=C=C=C(Cc1[c]c(=C)nc(C)c1=C(O)[O+]=C)N(O)O
+643 287.103 C=C=C=C=C(Cc1cc(=C)nc(C)c1=C(O)[O+]=C)N(O)O
+644 44.9971 O=C=[OH+]
+645 270.076 C#CC=C(C(=C=C)C(=O)[OH+]C)c1ccccc1[N+](=O)[O-]
+646 285.087 C#CC(=C(C#C)[N+](=O)[O-])c1cc(C)nc(C)c1C(=O)[OH+]C
+647 285.087 C#CC#CC(=C[N+](=O)[O-])c1cc(C)nc(C)c1C(=O)[OH+]C
+648 284.079 [CH2]OC(=O)c1c(C=C=C=C=C=C[N+](=O)O)cc(C)nc1C
+649 285.087 COC(=O)c1c(C=C=C=C=C=C[N+](=O)O)cc(C)nc1C
+650 108.008 O=[N+]([O-])C1C#CC#[CH+]1 Cyclization Fragment
+651 285.087 C#CC#CC(=Cc1cc(C)nc(C)c1C(=O)[OH+]C)[N+](=O)[O-]
+652 299.066 C=c1nc(C)c(=C=O)c(-c2ccccc2[N+](=O)[O-])c1C(O)=[OH+]
+653 283.071 C=c1nc(C)c(=C=O)c(=C2C=CC=CC2[N+](=O)[O-])c1=C=[OH+]
+654 299.066 C=c1ncc(C(=O)[OH+]C)c(-c2ccccc2[N+](=O)[O-])c1=C=O
+655 299.066 C=c1ncc(=C=O)c(-c2ccccc2[N+](=O)[O-])c1C(=O)[OH+]C
+656 297.087 COC(=O)c1c(C)nc(C)c(=C=O)c1=C1C=CC=CC1=[N+]=O
+657 315.098 C=C(N=C(C)C#CO)C(=C=C1C=CC=CC1[N+](=O)[O-])C(=O)[OH+]C Intermediate Fragment
+658 313.082 C=C=[NH+]C(C)=C(C(=O)OC)C(=C=C=O)c1ccccc1[N+](=O)[O-]
+659 298.071 C#CC(=C=O)C(C(=C=C)C(=O)[OH+]C)=C1C=CC=CC1[N+](=O)[O-]
+660 313.082 C#CC(=C=O)C(=C(C(=C)[NH3+])C(=O)OC)c1ccccc1[N+](=O)[O-]
+661 313.082 C#CC(C(=O)OC)=C(C(=C=O)C(C)=[NH2+])c1ccccc1[N+](=O)[O-]
+662 313.082 C#CC=C(C(=C)c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C=O)[N+](=O)[O-]
+663 313.082 C#CC(=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C=O)C(C#C)[N+](=O)[O-]
+664 313.082 C=C=C=C(C(=C)[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C=O
+665 313.082 C#CC#CC(C[N+](=O)[O-])=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C=O
+666 312.074 COC(=O)c1c(C)nc(C)c(=C=O)c1=C=C=C=C=C=C[N+](O)O
+667 313.082 COC(=O)c1c(C)nc(C)c(=C=O)c1=C=C=C=C=C=C[NH+](O)O
+668 312.074 [CH2]OC(=O)c1c(C)nc(C)c(=C=O)c1=CC(=C=C=C=C)[N+](=O)O
+669 313.082 C=C=C=C=C(C=c1c(C(=O)OC)c(C)nc(C)c1=C=O)[N+](=O)O
+670 331.092 C=c1nc(C)c(=C(O)O)c(-c2ccccc2[N+](=O)[O-])c1C(=O)[OH+]C
+671 208.06 C=[O+]C(=O)c1cc(=C(O)O)c(C)nc1=C
+672 284.092 C=[O+]C(=O)c1c(-c2ccccc2)c(=C(O)O)c(C)nc1=C
+673 331.092 C=C=NC(C)=C(C(=O)[OH+]C)C(=C=C(O)O)c1ccccc1[N+](=O)[O-] Intermediate Fragment
+674 266.066 C[OH+]C(=O)CC(=C=C(O)O)c1ccccc1[N+](=O)[O-]
+675 290.066 C=C=C(C(=O)[OH+]C)C(=C=C(O)O)c1ccccc1[N+](=O)[O-]
+676 59.0128 [CH+]=C(O)O
+677 192.029 O=[N+]([O-])c1ccccc1C#CC(O)=[OH+]
+678 193.037 [O-][N+](O)c1ccccc1C#CC(O)=[OH+]
+679 331.092 C#CC(=C(O)O)C(=C(C(=C)N)C(=O)[OH+]C)c1ccccc1[N+](=O)[O-] Intermediate Fragment
+680 290.066 C#CC(C(=CC(=O)[OH+]C)c1ccccc1[N+](=O)[O-])=C(O)O
+681 314.066 C#CC(C(=O)O)=C(C(=C=C)C(=O)[OH+]C)c1ccccc1[N+](=O)[O-]
+682 83.0128 [C+]#CC=C(O)O
+683 218.045 C#CC(=C=C1C=CC=CC1[N+](=O)[O-])C(O)=[OH+]
+684 331.092 C#CC(C(=O)[OH+]C)=C(C(C(C)=N)=C(O)O)c1ccccc1[N+](=O)[O-] Intermediate Fragment
+685 100.039 [CH2+]C(=N)C=C(O)O
+686 235.071 CC(=[NH2+])C(=C=C1C=CC=CC1[N+](=O)[O-])C(=O)O
+687 331.092 C#CN=C(C)C(C(=CC(=O)[OH+]C)c1ccccc1[N+](=O)[O-])=C(O)O Intermediate Fragment
+688 259.071 C#C[NH+]=C(C)C(=C=C1C=CC=CC1[N+](=O)[O-])C(=O)O
+689 331.092 C=C=C=C(C(=C)c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O)[N+](=O)[O-] Intermediate Fragment
+690 234.076 C#Cc1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O
+691 331.092 C=C=C(C(=C=C)[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O Intermediate Fragment
+692 305.077 C#CC(=C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)O)[N+](=O)[O-]
+693 305.077 C#CC(=C[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O
+694 246.076 C=C=C=c1c(C(=O)[O+]=C)c(C)nc(C)c1=C(O)O
+695 329.077 C#CC(=C(C#C)[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O
+696 331.092 C=C=C=C(C(=C)[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O Intermediate Fragment
+697 258.076 C#CC#Cc1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O
+698 331.092 C=C=C=C=C(C[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O Intermediate Fragment
+699 279.061 C=c1nc(C)c(=C(O)O)c(C#C[N+](=O)[O-])c1C(=O)[OH+]C
+700 280.069 C=c1nc(C)c(=C(O)O)c(C#C[N+]([O-])O)c1C(=O)[OH+]C
+701 270.076 C=C=C=C=C=c1c(C(=O)[O+]=C)c(C)nc(C)c1=C(O)O
+702 329.077 C#CC#CC(=C[N+](=O)[O-])c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)O
+703 330.085 C[OH+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C=C=C=C=C[N+]([O-])O Intermediate Fragment
+704 222.076 C=[O+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C
+705 221.068 [CH]=[O+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C
+706 233.068 [CH]=[O+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C
+707 232.06 C#Cc1c(C(=O)[O+]=C)c(=C)nc(C)c1=C(O)O
+708 231.053 [CH]=[O+]C(=O)c1c(C#C)c(=C(O)O)c(C)nc1=C
+709 236.092 C#CC1C(=C(O)O)C(C)=NC(=C)C1C(=O)[OH+]C
+710 235.084 C#CC1C(=C(O)O)C(C)=NC(=C)C1C(=O)[O+]C
+711 245.068 [CH]=[O+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C=C
+712 257.068 [CH]=[O+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C=C=C
+713 256.06 C#CC#Cc1c(C(=O)[O+]=C)c(=C)nc(C)c1=C(O)O
+714 255.053 [CH]=[O+]C(=O)c1c(C#CC#C)c(=C(O)O)c(C)nc1=C
+715 260.092 C#CC#CC1C(=C(O)O)C(C)=NC(=C)C1C(=O)[OH+]C
+716 259.084 C#CC#CC1C(=C(O)O)C(C)=NC(=C)C1C(=O)[O+]C
+717 269.068 [CH]=[O+]C(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C=C=C=C
+718 328.069 [CH2]OC(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C=C=C=C=C[N+](=O)O
+719 329.077 COC(=O)c1c(C)nc(C)c(=C(O)O)c1=C=C=C=C=C=C[N+](=O)O
+720 331.092 C=C=C=C=C(C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)O)[N+](=O)[O-] Intermediate Fragment
+721 329.077 C#CC#CC(=C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)O)[N+](=O)[O-]
+722 79.0542 C1=CC=[CH2+]C=C1
+723 78.0464 [CH]1C=CC=C[CH+]1
+724 108.044 O=[NH+]c1ccccc1
+725 107.037 O=[N+]c1ccccc1
+726 125.047 C=C=C=CC=C[N+](O)O Intermediate Fragment
+727 63.0229 [CH+]=C=C=C=C
+728 62.0151 [CH]=C=C=C=[CH+]
+729 65.0386 C=C=C=C=[CH3+]
+730 64.0308 C=C=C=[C][CH2+]
+731 123.031 C=C=C=C=C=C[N+](O)O
+732 124.039 C=C=C=C=C=C[NH+](O)O
+733 125.047 C=C=C=CC(=C)[N+](O)O Intermediate Fragment
+734 98.0237 C#CC(=C)[N+](=O)O
+735 97.0158 [C]#CC(=C)[N+](=O)O
+736 100.039 C#CC(=C)[NH+](O)O
+737 99.0315 C#CC(=C)[N+](O)O
+738 123.031 C=C=C=[C]C(=C)[N+](=O)O
+739 124.039 C=C=C=CC(=C)[N+](=O)O
+740 125.047 C=C=CC(=C=C)[N+](O)O Intermediate Fragment
+741 110.024 C#CC(C#C)[N+](=O)O
+742 109.016 [C]#CC(C#C)[N+](=O)O
+743 123.031 C=C=[C]C(=C=C)[N+](=O)O
+744 124.039 C=C=CC(=C=C)[N+](=O)O
+745 121.016 [CH]=C=C=C=C=C[N+](=O)O
+746 122.024 C=C=C=C=C=C[N+](=O)O
+747 122.024 C#CC#[CH+]C(=C)[N+](=O)[O-]
+748 122.024 C#CC(=[CH+]=C=C)[N+](=O)[O-]
+749 300.123 C=[O+]C(=O)C1=C(C)NC(C)=C(C(=O)OC)C1c1ccccc1
+750 282.112 C=c1nc(C)c(C(=O)OC)c(-c2ccccc2)c1=C=[O+]C
+751 284.092 C=[O+]C(=O)c1c(C)ncc(C(=O)OC)c1-c1ccccc1
+752 222.076 C=[O+]C(O)=c1cc(C(=O)OC)c(=C)nc1C
+753 300.123 C=[O+]C(=O)C(=C=C1C=CC=CC1)C(C)=NC(C)=CC(=O)OC Intermediate Fragment
+754 228.102 C#C[NH+]=C(C)C(=C=C1C=CC=CC1)C(=O)OC
+755 226.086 C#CN=C(C)C(=C=C1C=CC=CC1)C(=O)[O+]=C
+756 204.102 COC(=O)C(=C=C1C=CC=CC1)C(C)=[NH2+]
+757 202.086 C=[O+]C(=O)C(=C=C1C=CC=CC1)C(C)=N
+758 187.075 C#CC(=C=C1C=CC=CC1)C(=[OH+])OC
+759 185.06 C#CC(=C=C1C=CC=CC1)C(=O)[O+]=C
+760 163.075 COC(=[OH+])C#CC1C=CC=CC1
+761 161.06 COC(=[OH+])C#Cc1ccccc1
+762 159.044 C=[O+]C(=O)C#Cc1ccccc1
+763 300.123 C=C=NC(C)=C(C(=O)[OH+]C)C(=C=C(O)OC)c1ccccc1 Intermediate Fragment
+764 233.081 C=[O+]C(O)=C=C(CC(=O)OC)c1ccccc1
+765 235.096 COC(O)=C=C(CC(=O)[OH+]C)c1ccccc1
+766 257.081 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1
+767 259.096 C=C=C(C(=O)[OH+]C)C(=C=C(O)OC)c1ccccc1
+768 274.107 C=[O+]C(O)=C=C(C(C(=O)OC)=C(C)N)c1ccccc1
+769 298.107 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1
+770 300.123 C#CC(=C(O)[O+]=C)C(=C1C=CC=CC1)C(C(=O)OC)=C(C)N Intermediate Fragment
+771 283.096 C#CC(=C(O)[O+]=C)C(C(=C=C)C(=O)OC)=C1C=CC=CC1
+772 298.107 C#CC(C(=O)[O+]=C)=C(C(C(=O)OC)=C(C)N)c1ccccc1
+773 300.123 C=C=C=CC(C)=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C Intermediate Fragment
+774 284.092 C#CC#CC=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C
+775 274.107 C#CC(=C)c1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)OC
+776 272.092 C#CC(=C)c1c(C(=O)OC)c(=C)nc(C)c1=C(O)[O+]=C
+777 250.107 C#CC1C(=C(O)OC)C(C)=NC(=C)C1C(=O)[OH+]C
+778 248.092 C#Cc1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)OC
+779 246.076 C#Cc1c(C(=O)OC)c(=C)nc(C)c1=C(O)[O+]=C
+780 298.107 C#CC#CC(C)=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C
+781 300.123 C=C=CC(C=C)=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C Intermediate Fragment
+782 270.076 C#CC#Cc1c(C(=O)OC)c(=C)nc(C)c1=C(O)[O+]=C
+783 272.092 C#CC#Cc1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)OC
+784 274.107 C#CC=Cc1c(C(=O)[OH+]C)c(=C)nc(C)c1=C(O)OC
+785 284.092 C#CC(C#C)=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C
+786 260.092 C=C=C=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C
+787 298.107 C#CCC(C#C)=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C
+788 300.123 CC=C=C=C=C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)OC Intermediate Fragment
+789 236.092 C=[O+]C(O)=c1c(C)nc(C)c(C(=O)OC)c1=C
+790 298.107 C=C=C=C=C=C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)OC
+791 32.0131 [NH2+]=O
+792 31.0053 [NH+]=O
+793 346.116 C=C=NC(C)=C(C(=O)[OH+]C)C(=C=C(O)OC)c1ccccc1[N+]([O-])O Intermediate Fragment
+794 52.0182 C#C[N+]#C
+795 51.0104 [C]#[N+]C#C
+796 280.082 C=[O+]C(O)=C=C(CC(=O)OC)c1ccccc1N(O)O
+797 262.071 C=[O+]C(O)=C=C(C#COC)c1ccccc1N(O)O
+798 155.034 C=[O+]C(O)=C=C=CC(=O)OC
+799 157.05 COC(O)=C=C=CC(=O)[OH+]C
+800 262.071 C=[O+]C(O)=C=C(CC(=O)OC)c1ccccc1N=O
+801 280.082 COC(=O)CC(=C=C(O)OC)C=C=C=C=C=C[NH+](O)O Intermediate Fragment
+802 171.065 C=[O+]C(O)=C=C(C)CC(=O)OC
+803 183.065 C=CC(=C=C(O)[O+]=C)CC(=O)OC
+804 181.05 C#CC(=C=C(O)[O+]=C)CC(=O)OC
+805 185.081 C=CC(=C=C(O)OC)CC(=O)[OH+]C
+806 195.065 C=C=CC(=C=C(O)[O+]=C)CC(=O)OC
+807 207.065 C=C=C=CC(=C=C(O)[O+]=C)CC(=O)OC
+808 205.05 C#CC#CC(=C=C(O)[O+]=C)CC(=O)OC
+809 209.081 C=CC#CC(=C=C(O)OC)CC(=O)[OH+]C
+810 219.065 C=C=C=C=CC(=C=C(O)[O+]=C)CC(=O)OC
+811 278.066 C=[O+]C(O)=C=C(C=C=C=C=C=CN(O)O)CC(=O)OC
+812 280.082 C=C=C=C=C(CN(O)O)C(=C=C(O)[O+]=C)CC(=O)OC Intermediate Fragment
+813 228.05 C=[O+]C(O)=C=C(C#CN(O)O)CC(=O)OC
+814 230.066 COC(=O)CC(=C=C(O)OC)C#C[NH+](O)O
+815 254.066 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)CC(=O)OC
+816 278.066 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)CC(=O)OC
+817 280.082 C=C=C=C(C(=C)N(O)O)C(=C=C(O)[O+]=C)CC(=O)OC Intermediate Fragment
+818 280.082 C=C=C(C(=C=C(O)[O+]=C)CC(=O)OC)C(=C=C)N(O)O Intermediate Fragment
+819 254.066 C#CC(=CC(=C=C(O)[O+]=C)CC(=O)OC)N(O)O
+820 278.066 C#CC(C(=C=C(O)[O+]=C)CC(=O)OC)=C(C#C)N(O)O
+821 280.082 C=C=C=C(C(=C)C(=C=C(O)[O+]=C)CC(=O)OC)N(O)O Intermediate Fragment
+822 280.082 C=C=C=C=C(CC(=C=C(O)[O+]=C)CC(=O)OC)N(O)O Intermediate Fragment
+823 278.066 C#CC#CC(=CC(=C=C(O)[O+]=C)CC(=O)OC)N(O)O
+824 279.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)c1ccccc1N(O)O
+825 261.063 [CH2]OC#CC(=C=C(O)[O+]=C)c1ccccc1N(O)O
+826 154.026 [CH2]OC(=O)C=C=C=C(O)[O+]=C
+827 156.042 COC(O)=C=C=CC(=O)[O+]C
+828 232.073 [CH2]OC(=O)CC(=C=C(O)[O+]=C)c1ccccc1
+829 261.063 [CH2]OC(=O)CC(=C=C(O)[O+]=C)c1ccccc1N=O
+830 279.074 COC(=O)CC(=C=C(O)OC)C=C=C=C=C=C[N+](O)O Intermediate Fragment
+831 170.057 [CH2]OC(=O)CC(C)=C=C(O)[O+]=C
+832 182.057 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C=C
+833 180.042 C#CC(=C=C(O)[O+]=C)CC(=O)O[CH2]
+834 184.073 C=CC(=C=C(O)OC)CC(=O)[O+]C
+835 194.057 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C=C=C
+836 206.057 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C=C=C=C
+837 204.042 C#CC#CC(=C=C(O)[O+]=C)CC(=O)O[CH2]
+838 208.073 C=CC#CC(=C=C(O)OC)CC(=O)[O+]C
+839 218.057 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C=C=C=C=C
+840 277.058 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C=C=C=C=C=CN(O)O
+841 279.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C(=C=C=C=C)CN(O)O Intermediate Fragment
+842 227.042 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C#CN(O)O
+843 229.058 COC(=O)CC(=C=C(O)OC)C#C[N+](O)O
+844 253.058 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)CC(=O)O[CH2]
+845 277.058 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)CC(=O)O[CH2]
+846 279.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C(=C=C=C)C(=C)N(O)O Intermediate Fragment
+847 279.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C(=C=C)C(=C=C)N(O)O Intermediate Fragment
+848 253.058 C#CC(=CC(=C=C(O)[O+]=C)CC(=O)O[CH2])N(O)O
+849 277.058 C#CC(C(=C=C(O)[O+]=C)CC(=O)O[CH2])=C(C#C)N(O)O
+850 279.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C(=C)C(=C=C=C)N(O)O Intermediate Fragment
+851 279.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)CC(=C=C=C=C)N(O)O Intermediate Fragment
+852 277.058 C#CC#CC(=CC(=C=C(O)[O+]=C)CC(=O)O[CH2])N(O)O
+853 282.097 COC(=O)CC(=C=C(O)OC)c1ccccc1[NH+](O)O
+854 264.087 COC(O)=C=C(C=C=[O+]C)c1ccccc1N(O)O
+855 159.065 COC(O)=C=CCC(=O)[OH+]C
+856 264.087 COC(=O)CC(=C=C(O)OC)c1ccccc1[NH+]=O
+857 282.097 COC(=O)CC(=C=C(O)OC)C=C=C=CC=C[NH+](O)O Intermediate Fragment
+858 173.081 COC(O)=C=C(C)CC(=O)[OH+]C
+859 187.096 CCC(=C=C(O)OC)CC(=O)[OH+]C
+860 197.081 C=C=CC(=C=C(O)OC)CC(=O)[OH+]C
+861 211.096 CCC#CC(=C=C(O)OC)CC(=O)[OH+]C
+862 221.081 C=C=C=C=CC(=C=C(O)OC)CC(=O)[OH+]C
+863 282.097 C=C=C=C=C(C[NH+](O)O)C(=C=C(O)OC)CC(=O)OC Intermediate Fragment
+864 232.082 COC(=O)CC(=C=C(O)OC)C=C[NH+](O)O
+865 256.082 C#CC(=C[NH+](O)O)C(=C=C(O)OC)CC(=O)OC
+866 282.097 C=C=C=C(C(=C)[NH+](O)O)C(=C=C(O)OC)CC(=O)OC Intermediate Fragment
+867 256.082 C=[O+]C(O)=C=C(CC(=O)OC)C(=C)C(=C)N(O)O
+868 282.097 C=C=C(C(=C=C(O)OC)CC(=O)OC)C(=C=C)[NH+](O)O Intermediate Fragment
+869 256.082 C#CC(=CC(=C=C(O)OC)CC(=O)OC)[NH+](O)O
+870 282.097 C=C=C=C(C(=C)C(=C=C(O)OC)CC(=O)OC)[NH+](O)O Intermediate Fragment
+871 282.097 C=C=C=C=C(CC(=C=C(O)OC)CC(=O)OC)[NH+](O)O Intermediate Fragment
+872 281.089 COC(=O)CC(=C=C(O)OC)c1ccccc1[N+](O)O
+873 265.058 C=[O+]C(O)=C=C(CC([O])=O)c1ccccc1N(O)O
+874 263.079 [CH2][O+]=C=CC(=C=C(O)OC)c1ccccc1N(O)O
+875 158.057 COC(O)=C=CCC(=O)[O+]C
+876 234.089 COC(O)=C=C(CC(=O)[O+]C)c1ccccc1
+877 263.079 COC(=O)CC(=C=C(O)OC)c1ccccc1[N+]=O
+878 281.089 COC(=O)CC(=C=C(O)OC)C=C=C=CC=C[N+](O)O Intermediate Fragment
+879 172.073 COC(O)=C=C(C)CC(=O)[O+]C
+880 186.089 CCC(=C=C(O)OC)CC(=O)[O+]C
+881 196.073 C=C=CC(=C=C(O)OC)CC(=O)[O+]C
+882 210.089 CCC#CC(=C=C(O)OC)CC(=O)[O+]C
+883 220.073 C=C=C=C=CC(=C=C(O)OC)CC(=O)[O+]C
+884 281.089 C=C=C=C=C(C[N+](O)O)C(=C=C(O)OC)CC(=O)OC Intermediate Fragment
+885 231.074 COC(=O)CC(=C=C(O)OC)C=C[N+](O)O
+886 255.074 C#CC(=C[N+](O)O)C(=C=C(O)OC)CC(=O)OC
+887 281.089 C=C=C=C(C(=C)[N+](O)O)C(=C=C(O)OC)CC(=O)OC Intermediate Fragment
+888 255.074 [CH2]OC(=O)CC(=C=C(O)[O+]=C)C(=C)C(=C)N(O)O
+889 281.089 C=C=C(C(=C=C(O)OC)CC(=O)OC)C(=C=C)[N+](O)O Intermediate Fragment
+890 255.074 C#CC(=CC(=C=C(O)OC)CC(=O)OC)[N+](O)O
+891 281.089 C=C=C=C(C(=C)C(=C=C(O)OC)CC(=O)OC)[N+](O)O Intermediate Fragment
+892 281.089 C=C=C=C=C(CC(=C=C(O)OC)CC(=O)OC)[N+](O)O Intermediate Fragment
+893 28.0182 [CH+]=N
+894 27.0104 [CH+]=[N]
+895 26.0025 [C+]#N
+896 304.082 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+897 286.071 C#CC(C(=O)OC)=C(C#C[O+]=C)c1ccccc1N(O)O
+898 179.034 C=C=C(C#CC(=O)[O+]=C)C(=O)OC
+899 181.05 C=C=C(C#CC(=O)OC)C(=O)[OH+]C
+900 286.071 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1N=O
+901 304.082 C=C=C(C(=O)OC)C(=C=C(O)OC)C=C=C=C=C=C[NH+](O)O Intermediate Fragment
+902 195.065 C=C=C(C(=O)OC)C(C)=C=C(O)[O+]=C
+903 207.065 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)C=C
+904 205.05 C#CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC
+905 209.081 C=C=C(C(=O)[OH+]C)C(=C=C(O)OC)C=C
+906 219.065 C=C=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC
+907 231.065 C=C=C=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC
+908 233.081 C=C=C(C(=O)[OH+]C)C(=C=C(O)OC)C#CC=C
+909 243.065 C=C=C=C=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC
+910 302.066 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)C=C=C=C=C=CN(O)O
+911 304.082 C=C=C=C=C(CN(O)O)C(=C=C(O)[O+]=C)C(=C=C)C(=O)OC Intermediate Fragment
+912 252.05 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)C#CN(O)O
+913 254.066 C=C=C(C(=O)OC)C(=C=C(O)OC)C#C[NH+](O)O
+914 278.066 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(=C=C)C(=O)OC
+915 302.066 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(=C=C)C(=O)OC
+916 304.082 C=C=C=C(C(=C)N(O)O)C(=C=C(O)[O+]=C)C(=C=C)C(=O)OC Intermediate Fragment
+917 304.082 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)C(=C=C)C(=C=C)N(O)O Intermediate Fragment
+918 278.066 C#CC(=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC)N(O)O
+919 302.066 C#CC(C(=C=C(O)[O+]=C)C(=C=C)C(=O)OC)=C(C#C)N(O)O
+920 304.082 C=C=C=C(C(=C)C(=C=C(O)[O+]=C)C(=C=C)C(=O)OC)N(O)O Intermediate Fragment
+921 304.082 C=C=C=C=C(CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC)N(O)O Intermediate Fragment
+922 302.066 C#CC#CC(=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)OC)N(O)O
+923 303.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+924 285.063 C#CC(C(=O)O[CH2])=C(C#C[O+]=C)c1ccccc1N(O)O
+925 178.026 [CH2]OC(=O)C(=C=C)C#CC(=O)[O+]=C
+926 180.042 C=C=C(C#CC(=O)OC)C(=O)[O+]C
+927 256.073 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)c1ccccc1
+928 285.063 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)c1ccccc1N=O
+929 303.074 C=C=C(C(=O)OC)C(=C=C(O)OC)C=C=C=C=C=C[N+](O)O Intermediate Fragment
+930 194.057 [CH2]OC(=O)C(=C=C)C(C)=C=C(O)[O+]=C
+931 206.057 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C=C
+932 204.042 C#CC(=C=C(O)[O+]=C)C(=C=C)C(=O)O[CH2]
+933 208.073 C=C=C(C(=O)[O+]C)C(=C=C(O)OC)C=C
+934 218.057 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C=C=C
+935 230.057 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C=C=C=C
+936 232.073 C=C=C(C(=O)[O+]C)C(=C=C(O)OC)C#CC=C
+937 242.057 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C=C=C=C=C
+938 301.058 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C=C=C=C=C=CN(O)O
+939 303.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C(=C=C=C=C)CN(O)O Intermediate Fragment
+940 251.042 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C#CN(O)O
+941 253.058 C=C=C(C(=O)OC)C(=C=C(O)OC)C#C[N+](O)O
+942 277.058 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(=C=C)C(=O)O[CH2]
+943 301.058 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(=C=C)C(=O)O[CH2]
+944 303.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C(=C=C=C)C(=C)N(O)O Intermediate Fragment
+945 303.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C(=C=C)C(=C=C)N(O)O Intermediate Fragment
+946 277.058 C#CC(=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)O[CH2])N(O)O
+947 301.058 C#CC(C(=C=C(O)[O+]=C)C(=C=C)C(=O)O[CH2])=C(C#C)N(O)O
+948 303.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C(=C)C(=C=C=C)N(O)O Intermediate Fragment
+949 303.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)CC(=C=C=C=C)N(O)O Intermediate Fragment
+950 301.058 C#CC#CC(=CC(=C=C(O)[O+]=C)C(=C=C)C(=O)O[CH2])N(O)O
+951 306.097 C=C=C(C(=O)OC)C(=C=C(O)OC)c1ccccc1[NH+](O)O
+952 290.066 C=C=C(C(=O)O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+953 288.087 C#CC(=C=[O+]C)C(=C=C(O)OC)c1ccccc1N(O)O
+954 288.087 C=C=C(C(=O)OC)C(=C=C[O+]=C)c1ccccc1N(O)O
+955 183.065 C=C=C(C=C=C(O)OC)C(=O)[OH+]C
+956 288.087 C=C=C(C(=O)OC)C(=C=C(O)OC)c1ccccc1[NH+]=O
+957 306.097 C=C=C(C(=O)OC)C(=C=C(O)OC)C=C=C=CC=C[NH+](O)O Intermediate Fragment
+958 197.081 C=C=C(C(=O)[OH+]C)C(C)=C=C(O)OC
+959 211.096 C=C=C(C(=O)[OH+]C)C(=C=C(O)OC)CC
+960 221.081 C=C=CC(=C=C(O)OC)C(=C=C)C(=O)[OH+]C
+961 235.096 C=C=C(C(=O)[OH+]C)C(=C=C(O)OC)C#CCC
+962 245.081 C=C=C=C=CC(=C=C(O)OC)C(=C=C)C(=O)[OH+]C
+963 306.097 C=C=C=C=C(C[NH+](O)O)C(=C=C(O)OC)C(=C=C)C(=O)OC Intermediate Fragment
+964 256.082 C=C=C(C(=O)OC)C(=C=C(O)OC)C=C[NH+](O)O
+965 280.082 C#CC(=C[NH+](O)O)C(=C=C(O)OC)C(=C=C)C(=O)OC
+966 306.097 C=C=C=C(C(=C)[NH+](O)O)C(=C=C(O)OC)C(=C=C)C(=O)OC Intermediate Fragment
+967 280.082 C=C=C(C(=O)OC)C(=C=C(O)[O+]=C)C(=C)C(=C)N(O)O
+968 306.097 C=C=C(C(=O)OC)C(=C=C(O)OC)C(=C=C)C(=C=C)[NH+](O)O Intermediate Fragment
+969 280.082 C#CC(=CC(=C=C(O)OC)C(=C=C)C(=O)OC)[NH+](O)O
+970 306.097 C=C=C=C(C(=C)C(=C=C(O)OC)C(=C=C)C(=O)OC)[NH+](O)O Intermediate Fragment
+971 306.097 C=C=C=C=C(CC(=C=C(O)OC)C(=C=C)C(=O)OC)[NH+](O)O Intermediate Fragment
+972 305.089 C=C=C(C(=O)OC)C(=C=C(O)OC)c1ccccc1[N+](O)O
+973 289.058 C=C=C(C([O])=O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+974 287.079 C#CC(=C=[O+][CH2])C(=C=C(O)OC)c1ccccc1N(O)O
+975 287.079 [CH2]OC(=O)C(=C=C)C(=C=C[O+]=C)c1ccccc1N(O)O
+976 289.058 [CH2]OC(=O)C(=C=C)C(=C=C(O)O)c1ccccc1[N+](=O)O
+977 182.057 C=C=C(C=C=C(O)OC)C(=O)[O+]C
+978 258.089 C=C=C(C(=O)[O+]C)C(=C=C(O)OC)c1ccccc1
+979 287.079 C=C=C(C(=O)OC)C(=C=C(O)OC)c1ccccc1[N+]=O
+980 305.089 C=C=C(C(=O)OC)C(=C=C(O)OC)C=C=C=CC=C[N+](O)O Intermediate Fragment
+981 196.073 C=C=C(C(=O)[O+]C)C(C)=C=C(O)OC
+982 210.089 C=C=C(C(=O)[O+]C)C(=C=C(O)OC)CC
+983 220.073 C=C=CC(=C=C(O)OC)C(=C=C)C(=O)[O+]C
+984 234.089 C=C=C(C(=O)[O+]C)C(=C=C(O)OC)C#CCC
+985 244.073 C=C=C=C=CC(=C=C(O)OC)C(=C=C)C(=O)[O+]C
+986 305.089 C=C=C=C=C(C[N+](O)O)C(=C=C(O)OC)C(=C=C)C(=O)OC Intermediate Fragment
+987 255.074 C=C=C(C(=O)OC)C(=C=C(O)OC)C=C[N+](O)O
+988 279.074 C#CC(=C[N+](O)O)C(=C=C(O)OC)C(=C=C)C(=O)OC
+989 305.089 C=C=C=C(C(=C)[N+](O)O)C(=C=C(O)OC)C(=C=C)C(=O)OC Intermediate Fragment
+990 279.074 [CH2]OC(=O)C(=C=C)C(=C=C(O)[O+]=C)C(=C)C(=C)N(O)O
+991 305.089 C=C=C(C(=O)OC)C(=C=C(O)OC)C(=C=C)C(=C=C)[N+](O)O Intermediate Fragment
+992 279.074 C#CC(=CC(=C=C(O)OC)C(=C=C)C(=O)OC)[N+](O)O
+993 305.089 C=C=C=C(C(=C)C(=C=C(O)OC)C(=C=C)C(=O)OC)[N+](O)O Intermediate Fragment
+994 305.089 C=C=C=C=C(CC(=C=C(O)OC)C(=C=C)C(=O)OC)[N+](O)O Intermediate Fragment
+995 321.108 C=[O+]C(O)=C=C(C(C(=O)OC)=C(C)N)c1ccccc1N(O)O
+996 305.077 C=[O+]C(O)=C=C(C(=C=N)C(=O)OC)c1ccccc1N(O)O
+997 303.098 C=[O+]C#CC(=C(C(=C)N)C(=O)OC)c1ccccc1N(O)O
+998 196.06 C=[O+]C(=O)C#CC(C(=O)OC)=C(C)N
+999 198.076 COC(=O)C#CC(C(=O)OC)=C(C)[NH3+]
+1000 303.098 C=[O+]C(O)=C=C(C(C(=O)OC)=C(C)N)c1ccccc1N=O
+1001 321.108 COC(=O)C(C(=C=C(O)OC)C=C=C=C=C=CN(O)O)=C(C)[NH3+] Intermediate Fragment
+1002 212.092 C=[O+]C(O)=C=C(C)C(C(=O)OC)=C(C)N
+1003 224.092 C=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1004 222.076 C#CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1005 226.107 C=CC(=C=C(O)OC)C(C(=O)OC)=C(C)[NH3+]
+1006 236.092 C=C=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1007 248.092 C=C=C=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1008 246.076 C#CC#CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1009 250.107 C=CC#CC(=C=C(O)OC)C(C(=O)OC)=C(C)[NH3+]
+1010 260.092 C=C=C=C=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1011 319.092 C=[O+]C(O)=C=C(C=C=C=C=C=CN(O)O)C(C(=O)OC)=C(C)N
+1012 321.108 C=C=C=C=C(CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N Intermediate Fragment
+1013 269.077 C=[O+]C(O)=C=C(C#CN(O)O)C(C(=O)OC)=C(C)N
+1014 271.092 COC(=O)C(C(=C=C(O)OC)C#CN(O)O)=C(C)[NH3+]
+1015 295.092 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1016 319.092 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N
+1017 321.108 C=C=C=C(C(=C)N(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N Intermediate Fragment
+1018 321.108 C=C=C(C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N)C(=C=C)N(O)O Intermediate Fragment
+1019 295.092 C#CC(=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N)N(O)O
+1020 319.092 C#CC(C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N)=C(C#C)N(O)O
+1021 321.108 C=C=C=C(C(=C)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N)N(O)O Intermediate Fragment
+1022 321.108 C=C=C=C=C(CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N)N(O)O Intermediate Fragment
+1023 319.092 C#CC#CC(=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N)N(O)O
+1024 320.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)c1ccccc1N(O)O)=C(C)N
+1025 304.069 [CH2]OC(=O)C(=C=N)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+1026 302.09 [CH2]OC(=O)C(C(=C)N)=C(C#C[O+]=C)c1ccccc1N(O)O
+1027 195.053 [CH2]OC(=O)C(C#CC(=O)[O+]=C)=C(C)N
+1028 197.068 COC(=O)C#CC(C(=O)OC)=C(C)[NH2+]
+1029 273.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)c1ccccc1)=C(C)N
+1030 302.09 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)c1ccccc1N=O)=C(C)N
+1031 320.1 COC(=O)C(C(=C=C(O)OC)C=C=C=C=C=CN(O)O)=C(C)[NH2+] Intermediate Fragment
+1032 211.084 [CH2]OC(=O)C(C(C)=C=C(O)[O+]=C)=C(C)N
+1033 223.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C)=C(C)N
+1034 221.068 C#CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N
+1035 225.1 C=CC(=C=C(O)OC)C(C(=O)OC)=C(C)[NH2+]
+1036 235.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C)=C(C)N
+1037 247.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C=C)=C(C)N
+1038 245.068 C#CC#CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N
+1039 249.1 C=CC#CC(=C=C(O)OC)C(C(=O)OC)=C(C)[NH2+]
+1040 259.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C=C=C)=C(C)N
+1041 318.085 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C=C=C=CN(O)O)=C(C)N
+1042 320.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C=C=C=C)CN(O)O)=C(C)N Intermediate Fragment
+1043 268.069 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C#CN(O)O)=C(C)N
+1044 270.085 COC(=O)C(C(=C=C(O)OC)C#CN(O)O)=C(C)[NH2+]
+1045 294.085 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N
+1046 318.085 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N
+1047 320.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C=C=C)C(=C)N(O)O)=C(C)N Intermediate Fragment
+1048 320.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C=C)C(=C=C)N(O)O)=C(C)N Intermediate Fragment
+1049 294.085 C#CC(=CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N)N(O)O
+1050 318.085 C#CC(C(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N)=C(C#C)N(O)O
+1051 320.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C)C(=C=C=C)N(O)O)=C(C)N Intermediate Fragment
+1052 320.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)CC(=C=C=C=C)N(O)O)=C(C)N Intermediate Fragment
+1053 318.085 C#CC#CC(=CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N)N(O)O
+1054 258.064 C=C=NC(=C)C(=C=C1C=CC=CC1[N+](=O)O)C([O])=O
+1055 259.071 C#CN=C=C(C=C1C=CC=CC1[N+](=O)O)C(=O)OC
+1056 258.064 C#CN=C=C(C=C1C=CC=CC1[N+](=O)O)C(=O)O[CH2]
+1057 150.055 C=C=NC(=C)C(=C)C(=O)[O+]=C
+1058 149.047 [CH]=[O+]C(=O)C(=C)C(=C)N=C=C
+1059 152.071 C=C=[NH+]C(=C)C(=C)C(=O)OC
+1060 151.063 C=C=[N+]C(=C)C(=C)C(=O)OC
+1061 227.094 [CH]=[O+]C(=O)C(Cc1ccccc1)=C(C)N=C=C
+1062 225.078 [CH]=[O+]C(=O)C(=C=C1C=CC=CC1)C(=C)N=C=C
+1063 257.092 C=C=NC(C)=C(Cc1ccccc1N=O)C(=O)[O+]=C
+1064 256.084 [CH]=[O+]C(=O)C(Cc1ccccc1N=O)=C(C)N=C=C
+1065 274.095 C=C=[N+]C(C)=C(C#CC=C=C=CCN(O)O)C(=O)OC Intermediate Fragment
+1066 162.055 C#CC(C(=O)[O+]=C)=C(C)N=C=C
+1067 161.047 [CH]=[O+]C(=O)C(C#C)=C(C)N=C=C
+1068 164.071 C#CC(C(=O)OC)=C(C)[NH+]=C=C
+1069 163.063 C#CC(C(=O)OC)=C(C)[N+]=C=C
+1070 166.086 C=C=[NH+]C(C)=C(C=C)C(=O)OC
+1071 165.078 C=C=[N+]C(C)=C(C=C)C(=O)OC
+1072 176.071 C=C=NC(C)=C(C#CC)C(=O)[O+]=C
+1073 175.063 [CH]=[O+]C(=O)C(C#CC)=C(C)N=C=C
+1074 178.086 C=C=[NH+]C(C)=C(C#CC)C(=O)OC
+1075 177.078 C=C=[N+]C(C)=C(C#CC)C(=O)OC
+1076 180.102 C=C=[NH+]C(C)=C(C=CC)C(=O)OC
+1077 179.094 C=C=[N+]C(C)=C(C=CC)C(=O)OC
+1078 188.071 C=C=NC(C)=C(C#CC=C)C(=O)[O+]=C
+1079 187.063 [CH]=[O+]C(=O)C(C#CC=C)=C(C)N=C=C
+1080 190.086 C=C=[NH+]C(C)=C(C#CC=C)C(=O)OC
+1081 189.078 C=C=[N+]C(C)=C(C#CC=C)C(=O)OC
+1082 202.086 C=C=CC#CC(C(=O)OC)=C(C)[NH+]=C=C
+1083 201.078 C=C=CC#CC(C(=O)OC)=C(C)[N+]=C=C
+1084 204.102 C=C=[NH+]C(C)=C(C#CC=CC)C(=O)OC
+1085 203.094 C=C=[N+]C(C)=C(C#CC=CC)C(=O)OC
+1086 214.086 C=C=C=CC#CC(C(=O)OC)=C(C)[NH+]=C=C
+1087 213.078 C=C=C=CC#CC(C(=O)OC)=C(C)[N+]=C=C
+1088 272.079 C=C=[N+]C(C)=C(C#CC=C=C=C=CN(O)O)C(=O)OC
+1089 273.087 C=C=[NH+]C(C)=C(C#CC=C=C=C=CN(O)O)C(=O)OC
+1090 274.095 [CH2]OC(=O)C(C=C(C=C=C=C)C[N+](=O)O)=C(C)N=C=C Intermediate Fragment
+1091 221.056 C=C=NC(=C)C(=C=C=C[N+](=O)O)C(=O)OC
+1092 220.048 [CH2]OC(=O)C(=C=C=C[N+](=O)O)C(=C)N=C=C
+1093 223.071 C=C=[NH+]C(=C)C(=C=C=CN(O)O)C(=O)OC
+1094 222.064 C=C=[N+]C(=C)C(=C=C=CN(O)O)C(=O)OC
+1095 225.087 C=C=[NH+]C(=C)C(=C=CCN(O)O)C(=O)OC
+1096 224.079 C=C=[N+]C(=C)C(=C=CCN(O)O)C(=O)OC
+1097 247.071 C#CC(=C=C(C(=C)N=C=C)C(=O)OC)C[N+](=O)O
+1098 246.064 C#CC(=C=C(C(=C)N=C=C)C(=O)O[CH2])C[N+](=O)O
+1099 249.087 C#CC(=C=C(C(=C)[NH+]=C=C)C(=O)OC)CN(O)O
+1100 248.079 C#CC(=C=C(C(=C)[N+]=C=C)C(=O)OC)CN(O)O
+1101 272.079 C#CC#CC(=CC(C(=O)O[CH2])=C(C)N=C=C)C[N+](=O)O
+1102 273.087 C#CC#CC(=CC(C(=O)OC)=C(C)N=C=C)C[N+](=O)O
+1103 274.095 [CH2]OC(=O)C(C=C(C=C=C)C(=C)[N+](=O)O)=C(C)N=C=C Intermediate Fragment
+1104 235.071 C=C=NC(C)=C(C#CC(=C)[N+](=O)O)C(=O)OC
+1105 234.064 [CH2]OC(=O)C(C#CC(=C)[N+](=O)O)=C(C)N=C=C
+1106 249.087 C=C=NC(=C)C(=C=C(C)C(=C)[N+](=O)O)C(=O)OC
+1107 248.079 [CH2]OC(=O)C(=C=C(C)C(=C)[N+](=O)O)C(=C)N=C=C
+1108 259.071 C#CC(=C=C(C(=C)N=C=C)C(=O)OC)C(=C)[N+](=O)O
+1109 258.064 C#CC(=C=C(C(=C)N=C=C)C(=O)O[CH2])C(=C)[N+](=O)O
+1110 272.079 [CH2]OC(=O)C(=C=C(C#CC)C(=C)[N+](=O)O)C(=C)N=C=C
+1111 273.087 C=C=NC(=C)C(=C=C(C#CC)C(=C)[N+](=O)O)C(=O)OC
+1112 274.095 [CH2]OC(=O)C(C=C(C=C)C(=C=C)[N+](=O)O)=C(C)N=C=C Intermediate Fragment
+1113 247.071 C#CC(C#CC(C(=O)OC)=C(C)N=C=C)[N+](=O)O
+1114 246.064 C#CC(C#CC(C(=O)O[CH2])=C(C)N=C=C)[N+](=O)O
+1115 249.087 C#CC(C#CC(C(=O)OC)=C(C)[NH+]=C=C)N(O)O
+1116 248.079 C#CC(C#CC(C(=O)OC)=C(C)[N+]=C=C)N(O)O
+1117 272.079 C#CC(=CC(C(=O)O[CH2])=C(C)N=C=C)C(C#C)[N+](=O)O
+1118 273.087 C#CC(=CC(C(=O)OC)=C(C)N=C=C)C(C#C)[N+](=O)O
+1119 274.095 [CH2]OC(=O)C(C=C(C)C(=C=C=C)[N+](=O)O)=C(C)N=C=C Intermediate Fragment
+1120 259.071 C#CC=C(C#CC(C(=O)OC)=C(C)N=C=C)[N+](=O)O
+1121 258.064 C#CC=C(C#CC(C(=O)O[CH2])=C(C)N=C=C)[N+](=O)O
+1122 272.079 C#CC=C(C(C)=C=C(C(=C)N=C=C)C(=O)O[CH2])[N+](=O)O
+1123 273.087 C#CC=C(C(C)=C=C(C(=C)N=C=C)C(=O)OC)[N+](=O)O
+1124 274.095 C=C=C=CC(C#CC(C(=O)OC)=C(C)[N+]=C=C)N(O)O Intermediate Fragment
+1125 272.079 C=C=C=C=C(C#CC(C(=O)OC)=C(C)[N+]=C=C)N(O)O
+1126 273.087 C=C=C=C=C(C#CC(C(=O)OC)=C(C)[NH+]=C=C)N(O)O
+1127 275.103 C=C=[NH+]C(C)=C(C#CC=C=C=CCN(O)O)C(=O)OC Intermediate Fragment
+1128 275.103 C=C=C=CC(=CC(C(=O)OC)=C(C)N=C=C)C[N+](=O)O Intermediate Fragment
+1129 275.103 C=C=CC(=CC(C(=O)OC)=C(C)N=C=C)C(=C)[N+](=O)O Intermediate Fragment
+1130 275.103 C=C=NC(C)=C(C=C(C=C)C(=C=C)[N+](=O)O)C(=O)OC Intermediate Fragment
+1131 275.103 C=C=C=C(C(C)=CC(C(=O)OC)=C(C)N=C=C)[N+](=O)O Intermediate Fragment
+1132 275.103 C=C=C=CC(C#CC(C(=O)OC)=C(C)[NH+]=C=C)N(O)O Intermediate Fragment
+1133 55.0178 C#C[O+]=C
+1134 54.01 [C]#C[O+]=C
+1135 39.9944 [C+]#C[O]
+1136 255.076 C=C=NC(=C)C(=C=C1C=CC=CC1=[N+]=O)C(=O)OC
+1137 254.069 [CH2]OC(=O)C(=C=C1C=CC=CC1=[N+]=O)C(=C)N=C=C
+1138 57.0335 C=C[O+]=C
+1139 56.0257 [CH]=C[O+]=C
+1140 58.0049 [CH+]=C([O])O
+1141 123.031 C=C=NC(C)=[C+]C([O])=O
+1142 124.039 C=C=NC(C)=[C+]C(=O)O
+1143 122.06 C=C=NC(C)=C=C=[O+]C
+1144 121.052 [CH2][O+]=C=C=C(C)N=C=C
+1145 124.039 C=C=NC=CC(=O)[O+]=C
+1146 123.031 [CH]=[O+]C(=O)C=CN=C=C
+1147 120.044 C=C=NC(=C)C#C[O+]=C
+1148 119.037 [CH]=[O+]C#CC(=C)N=C=C
+1149 122.024 C=C=NC#CC(=O)[O+]=C
+1150 121.016 [CH]=[O+]C(=O)C#CN=C=C
+1151 83.0128 C#CC(=O)[O+]=C
+1152 85.0284 C#CC(=[OH+])OC
+1153 190.05 C=[O+]C(O)=C=C=C1C=CC=CC1=NO
+1154 208.06 COC(O)=C=C=C=C=C=C=CC[NH+](O)O Intermediate Fragment
+1155 109.028 C=C=C=C=C(O)[O+]=C
+1156 111.044 C=C=C=C=C([OH2+])OC
+1157 107.013 C#CC#CC(=O)[O+]=C
+1158 113.06 CCC#CC(=[OH+])OC
+1159 121.028 C=C=C=C=C=C(O)[O+]=C
+1160 123.044 C=C=C=C=C=C([OH2+])OC
+1161 133.028 C=C=C=C=C=C=C(O)[O+]=C
+1162 135.044 C=C=C=C=C=C=C([OH2+])OC
+1163 137.06 CC=C=C=C=C=C([OH2+])OC
+1164 145.028 C=C=C=C=C=C=C=C(O)[O+]=C
+1165 147.044 C=C=C=C=C=C=C=C([OH2+])OC
+1166 206.045 COC(O)=C=C=C=C=C=C=C=C[NH+](O)O
+1167 208.06 C=C=C=CC(=C=C=C(O)[O+]=C)CN(O)O Intermediate Fragment
+1168 154.013 C=[O+]C(=O)C#CC#CN(O)O
+1169 156.029 COC(=O)C#CC#C[NH+](O)O
+1170 158.045 COC(=O)C#CC=C[NH+](O)O
+1171 180.029 C#CC(C#CC(=O)[O+]=C)=CN(O)O
+1172 182.045 C#CC(C#CC(=O)OC)=C[NH+](O)O
+1173 206.045 C#CC#CC(=C=C=C(O)[O+]=C)CN(O)O
+1174 208.06 C=C=CC(=C=C=C(O)[O+]=C)C(=C)N(O)O Intermediate Fragment
+1175 182.045 C=[O+]C(=O)C#CC(=C)C(=C)N(O)O
+1176 206.045 C=C=C=C(C#CC(=O)[O+]=C)C(=C)N(O)O
+1177 208.06 C=C=C(C(=C=C=C(O)[O+]=C)C=C)N(O)O Intermediate Fragment
+1178 180.029 C#CC(=C=C=C=C(O)[O+]=C)N(O)O
+1179 182.045 C#CC(=C=C=C=C(O)OC)[NH+](O)O
+1180 206.045 C#CC(=C=C=C(O)[O+]=C)C(C#C)N(O)O
+1181 208.06 C=C=C=C(C(C)=C=C=C(O)[O+]=C)N(O)O Intermediate Fragment
+1182 206.045 C#CC=C(C(=C)C#CC(=O)[O+]=C)N(O)O
+1183 208.06 C=C=C=C=C(C=C=C=C(O)OC)[NH+](O)O Intermediate Fragment
+1184 206.045 C=C=C=C=C(C=C=C=C(O)[O+]=C)N(O)O
+1185 191.021 [O]C(=O)C#Cc1ccccc1[N+](=O)O
+1186 82.0049 [CH]=[O+]C(=O)C#C
+1187 84.0206 C#CC(=[O+])OC
+1188 158.036 [CH]=[O+]C(=O)C#Cc1ccccc1
+1189 160.052 COC(=[O+])C#Cc1ccccc1
+1190 189.042 C=[O+]C([O])=C=C=C1C=CC=CC1=NO
+1191 207.053 COC(O)=C=C=C=C=C=C=CC[N+](O)O Intermediate Fragment
+1192 108.021 C=C=C=C=C([O])[O+]=C
+1193 110.036 C=C=C=C=C([OH+])OC
+1194 106.005 [CH]=[O+]C(=O)C#CC#C
+1195 112.052 CCC#CC(=[O+])OC
+1196 120.021 C=C=C=C=C=C([O])[O+]=C
+1197 122.036 C=C=C=C=C=C([OH+])OC
+1198 132.021 C=C=C=C=C=C=C([O])[O+]=C
+1199 134.036 C=C=C=C=C=C=C([OH+])OC
+1200 136.052 CC=C=C=C=C=C([OH+])OC
+1201 144.021 C=C=C=C=C=C=C=C([O])[O+]=C
+1202 146.036 C=C=C=C=C=C=C=C([OH+])OC
+1203 205.037 COC(O)=C=C=C=C=C=C=C=C[N+](O)O
+1204 207.053 C=C=C=CC(=C=C=C([O])[O+]=C)CN(O)O Intermediate Fragment
+1205 153.006 [CH]=[O+]C(=O)C#CC#CN(O)O
+1206 155.021 COC(=O)C#CC#C[N+](O)O
+1207 157.037 COC(=O)C#CC=C[N+](O)O
+1208 179.021 [CH]=[O+]C(=O)C#CC(C#C)=CN(O)O
+1209 181.037 C#CC(C#CC(=O)OC)=C[N+](O)O
+1210 205.037 C#CC#CC(=C=C=C([O])[O+]=C)CN(O)O
+1211 207.053 C=C=CC(=C=C=C([O])[O+]=C)C(=C)N(O)O Intermediate Fragment
+1212 181.037 [CH]=[O+]C(=O)C#CC(=C)C(=C)N(O)O
+1213 205.037 [CH]=[O+]C(=O)C#CC(=C=C=C)C(=C)N(O)O
+1214 207.053 C=C=C(C(=C=C=C([O])[O+]=C)C=C)N(O)O Intermediate Fragment
+1215 179.021 C#CC(=C=C=C=C([O])[O+]=C)N(O)O
+1216 181.037 C#CC(=C=C=C=C(O)OC)[N+](O)O
+1217 205.037 C#CC(=C=C=C([O])[O+]=C)C(C#C)N(O)O
+1218 207.053 C=C=C=C(C(C)=C=C=C([O])[O+]=C)N(O)O Intermediate Fragment
+1219 205.037 [CH]=[O+]C(=O)C#CC(=C)C(=CC#C)N(O)O
+1220 207.053 C=C=C=C=C(C=C=C=C(O)OC)[N+](O)O Intermediate Fragment
+1221 205.037 C=C=C=C=C(C=C=C=C([O])[O+]=C)N(O)O
+1222 192.066 C=[O+]C=C=Cc1ccccc1N(O)O
+1223 194.045 O=[N+](O)c1ccccc1C=C=C(O)O
+1224 87.0441 C=C=C([OH2+])OC
+1225 192.066 COC(O)=C=Cc1ccccc1[NH+]=O
+1226 210.076 COC(O)=C=C=C=CC=CC=C[NH+](O)O Intermediate Fragment
+1227 115.075 CCC=CC(=[OH+])OC
+1228 125.06 CC=C=C=C=C([OH2+])OC
+1229 139.075 CCC=C=C=C=C([OH2+])OC
+1230 149.06 CC=C=C=C=C=C=C([OH2+])OC
+1231 210.076 C=C=C=C=C(C=C=C(O)OC)C[NH+](O)O Intermediate Fragment
+1232 160.06 COC(=O)C#CCC[NH+](O)O
+1233 170.045 C=[O+]C(=O)C#CC(=C)CN(O)O
+1234 184.06 C#CC(C#CC(=O)OC)C[NH+](O)O
+1235 194.045 C=C=C=C(C#CC(=O)[O+]=C)CN(O)O
+1236 192.029 C=[O+]C(=O)C#CC1=C=C=CC1N(O)O Cyclization Fragment
+1237 210.076 C=C=C=C(C=C=C(O)OC)C(=C)[NH+](O)O Intermediate Fragment
+1238 170.045 C=[O+]C(O)=C=C=CC(=C)N(O)O
+1239 184.06 C=C(C#CC(=O)OC)C(=C)[NH+](O)O
+1240 194.045 C#CC(=C=C=C(O)[O+]=C)C(=C)N(O)O
+1241 210.076 C=C=C(C=C=C(O)OC)C(=C=C)[NH+](O)O Intermediate Fragment
+1242 184.06 C#CC(C=C=C=C(O)OC)[NH+](O)O
+1243 194.045 C#CC(C(=C)C#CC(=O)[O+]=C)N(O)O
+1244 210.076 C=C=C=C(C(=C)C=C=C(O)OC)[NH+](O)O Intermediate Fragment
+1245 194.045 C=C=C=C(C=C=C=C(O)[O+]=C)N(O)O
+1246 210.076 C=C=CC=C(C=C=C=C(O)OC)[NH+](O)O Intermediate Fragment
+1247 191.058 C=[O+][C]=C=Cc1ccccc1N(O)O
+1248 86.0362 C=C=C([OH+])OC
+1249 162.068 COC([OH+])=C=Cc1ccccc1
+1250 191.058 COC(O)=C=Cc1ccccc1[N+]=O
+1251 209.068 COC(O)=C=C=C=CC=CC=C[N+](O)O Intermediate Fragment
+1252 114.068 CCC=CC(=[O+])OC
+1253 124.052 CC=C=C=C=C([OH+])OC
+1254 138.068 CCC=C=C=C=C([OH+])OC
+1255 148.052 CC=C=C=C=C=C=C([OH+])OC
+1256 209.068 C=C=C=C=C(C=C=C(O)OC)C[N+](O)O Intermediate Fragment
+1257 159.053 COC(=O)C#CCC[N+](O)O
+1258 169.037 [CH]=[O+]C(=O)C#CC(=C)CN(O)O
+1259 183.053 C#CC(C#CC(=O)OC)C[N+](O)O
+1260 193.037 [CH]=[O+]C(=O)C#CC(=C=C=C)CN(O)O
+1261 191.021 [CH]=[O+]C(=O)C#CC1=C=C=CC1N(O)O Cyclization Fragment
+1262 209.068 C=C=C=C(C=C=C(O)OC)C(=C)[N+](O)O Intermediate Fragment
+1263 169.037 C=[O+]C([O])=C=C=CC(=C)N(O)O
+1264 183.053 C=C(C#CC(=O)OC)C(=C)[N+](O)O
+1265 193.037 C#CC(=C=C=C([O])[O+]=C)C(=C)N(O)O
+1266 209.068 C=C=C(C=C=C(O)OC)C(=C=C)[N+](O)O Intermediate Fragment
+1267 183.053 C#CC(C=C=C=C(O)OC)[N+](O)O
+1268 193.037 [CH]=[O+]C(=O)C#CC(=C)C(C#C)N(O)O
+1269 209.068 C=C=C=C(C(=C)C=C=C(O)OC)[N+](O)O Intermediate Fragment
+1270 193.037 C=C=C=C(C=C=C=C([O])[O+]=C)N(O)O
+1271 209.068 C=C=CC=C(C=C=C=C(O)OC)[N+](O)O Intermediate Fragment
+1272 125.047 C=C=[N+]C(C)=CC(=O)O
+1273 126.055 C=C=[NH+]C(C)=CC(=O)O
+1274 124.076 C=C=[NH+]C(C)=C=COC
+1275 123.068 C=C=[N+]C(C)=C=COC
+1276 126.055 C=C=[NH+]C=CC(=O)OC
+1277 125.047 C=C=[N+]C=CC(=O)OC
+1278 126.055 C=NC(C)=CC(=O)[O+]=C
+1279 125.047 [CH]=[O+]C(=O)C=C(C)N=C
+1280 188.034 C=[O+]C(=O)C#Cc1ccccc1N=O
+1281 204.029 C=[O+]C(O)=C=C=C=C=C=C=C=CN(O)O
+1282 204.029 C#CC#CC(C#CC(=O)[O+]=C)=CN(O)O
+1283 204.029 C#CC(C#CC(=O)[O+]=C)=C(C#C)N(O)O
+1284 204.029 C#CC#CC(=C=C=C=C(O)[O+]=C)N(O)O
+1285 187.026 [CH]=[O+]C(=O)C#Cc1ccccc1N=O
+1286 203.021 C=[O+]C([O])=C=C=C=C=C=C=C=CN(O)O
+1287 203.021 [CH]=[O+]C(=O)C#CC(C#CC#C)=CN(O)O
+1288 203.021 [CH]=[O+]C(=O)C#CC(C#C)=C(C#C)N(O)O
+1289 203.021 C#CC#CC(=C=C=C=C([O])[O+]=C)N(O)O
+1290 344.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)c1ccccc1N(O)O)=C(C)N=C=C
+1291 312.074 [CH]=C(N=C=C)C(=C=O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+1292 313.082 C=C=NC(=C)C(=C=O)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+1293 329.077 C#CN=C=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+1294 328.069 C#CN=C=C(C(=O)O[CH2])C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+1295 327.098 C=C=NC(=C)C(C(=O)OC)=C(C#C[O+]=C)c1ccccc1N(O)O
+1296 326.09 [CH2]OC(=O)C(C(=C)N=C=C)=C(C#C[O+]=C)c1ccccc1N(O)O
+1297 312.074 [CH2]OC(=O)C(C(=C=C=O)c1ccccc1[N+](=O)O)=C(C)N=C=C
+1298 220.06 C=C=NC(C)=C(C#CC(=O)[O+]=C)C(=O)OC
+1299 219.053 [CH2]OC(=O)C(C#CC(=O)[O+]=C)=C(C)N=C=C
+1300 222.076 C=C=[NH+]C(C)=C(C#CC(=O)OC)C(=O)OC
+1301 221.068 C=C=[N+]C(C)=C(C#CC(=O)OC)C(=O)OC
+1302 297.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)c1ccccc1)=C(C)N=C=C
+1303 327.098 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1N=O
+1304 326.09 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)c1ccccc1N=O)=C(C)N=C=C
+1305 344.1 C=C=[N+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C=C=C=C=C=CN(O)O Intermediate Fragment
+1306 236.092 C=C=NC(C)=C(C(=O)OC)C(C)=C=C(O)[O+]=C
+1307 235.084 [CH2]OC(=O)C(C(C)=C=C(O)[O+]=C)=C(C)N=C=C
+1308 248.092 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)C=C
+1309 247.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C)=C(C)N=C=C
+1310 246.076 C#CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C
+1311 245.068 C#CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N=C=C
+1312 250.107 C=C=[NH+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C=C
+1313 249.1 C=C=[N+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C=C
+1314 260.092 C=C=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C
+1315 259.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C)=C(C)N=C=C
+1316 272.092 C=C=C=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C
+1317 271.084 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C=C)=C(C)N=C=C
+1318 274.107 C=C=[NH+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C#CC=C
+1319 273.1 C=C=[N+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C#CC=C
+1320 342.085 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C=C=C=C=C=CN(O)O)=C(C)N=C=C
+1321 343.092 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)C=C=C=C=C=CN(O)O
+1322 344.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C=C=C=C)CN(O)O)=C(C)N=C=C Intermediate Fragment
+1323 293.077 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)C#CN(O)O
+1324 292.069 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C#CN(O)O)=C(C)N=C=C
+1325 295.092 C=C=[NH+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C#CN(O)O
+1326 294.085 C=C=[N+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C#CN(O)O
+1327 319.092 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C
+1328 318.085 C#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N=C=C
+1329 342.085 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N=C=C
+1330 343.092 C#CC#CC(=CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C
+1331 344.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C=C=C)C(=C)N(O)O)=C(C)N=C=C Intermediate Fragment
+1332 344.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C=C)C(=C=C)N(O)O)=C(C)N=C=C Intermediate Fragment
+1333 319.092 C#CC(=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C)N(O)O
+1334 318.085 C#CC(=CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N=C=C)N(O)O
+1335 342.085 C#CC(C(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N=C=C)=C(C#C)N(O)O
+1336 343.092 C#CC(C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C)=C(C#C)N(O)O
+1337 344.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)C(=C)C(=C=C=C)N(O)O)=C(C)N=C=C Intermediate Fragment
+1338 344.1 [CH2]OC(=O)C(C(=C=C(O)[O+]=C)CC(=C=C=C=C)N(O)O)=C(C)N=C=C Intermediate Fragment
+1339 342.085 C#CC#CC(=CC(=C=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N=C=C)N(O)O
+1340 343.092 C#CC#CC(=CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C)N(O)O
+1341 345.108 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)c1ccccc1N(O)O
+1342 345.108 C=C=[NH+]C(C)=C(C(=O)OC)C(=C=C(O)OC)C=C=C=C=C=CN(O)O Intermediate Fragment
+1343 345.108 C=C=C=C=C(CN(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C Intermediate Fragment
+1344 345.108 C=C=C=C(C(=C)N(O)O)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C Intermediate Fragment
+1345 345.108 C=C=NC(C)=C(C(=O)OC)C(=C=C(O)[O+]=C)C(=C=C)C(=C=C)N(O)O Intermediate Fragment
+1346 345.108 C=C=C=C(C(=C)C(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C)N(O)O Intermediate Fragment
+1347 345.108 C=C=C=C=C(CC(=C=C(O)[O+]=C)C(C(=O)OC)=C(C)N=C=C)N(O)O Intermediate Fragment
+1348 346.116 COC(O)=c1c(C)nc(C)c(C(=O)[OH+]C)c1=C=C=C=C=CC[N+]([O-])O Intermediate Fragment
+1349 94.0287 C=C=C=C=C=[NH+]O
+1350 93.0209 C=C=C=C=C=[N+]O
+1351 92.0131 C=C=C=C=C=[N+]=O
+1352 91.0053 [CH]=C=C=C=C=[N+]=O
+1353 236.092 C#CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1354 140.071 C#CC(C(C)=[NH2+])=C(O)OC
+1355 138.055 C#CC(C(C)=N)=C(O)[O+]=C
+1356 123.044 C#CC(C#C)=C([OH2+])OC
+1357 121.028 C#CC(C#C)=C(O)[O+]=C
+1358 236.092 C#CC(C(=C)C(C(=O)OC)=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1359 219.065 C#CC(C(=C)C(=C=C)C(=O)OC)=C(O)[O+]=C
+1360 235.084 C#CC(C(C)=NC(C)=CC(=O)O[CH2])=C(O)[O+]=C Intermediate Fragment
+1361 139.063 C#CC(C(C)=[NH+])=C(O)OC
+1362 137.047 C#CC(C(C)=[N])=C(O)[O+]=C
+1363 122.036 C#CC(C#C)=C([OH+])OC
+1364 120.021 [C]#CC(C#C)=C(O)[O+]=C
+1365 235.084 C#CC(C(=C)C(C(=O)O[CH2])=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1366 218.057 C#CC(C(=C)C(=C=C)C(=O)O[CH2])=C(O)[O+]=C
+1367 238.107 C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)OC
+1368 220.097 C=c1nc(C)c(=C(O)OC)c(=C)c1=C=[O+]C
+1369 222.076 C=[O+]C(O)=c1c(C)ncc(C(=O)OC)c1=C
+1370 238.107 C=CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1371 142.086 C=CC(C(C)=[NH2+])=C(O)OC
+1372 125.06 C#CC(C=C)=C([OH2+])OC
+1373 212.092 C=[O+]C(O)=CC(C)=NC(C)=CC(=O)OC
+1374 238.107 C=C=NC(C)=C(C(=C)C=C(O)OC)C(=O)[OH+]C Intermediate Fragment
+1375 210.076 C=[O+]C(O)=C=C1CNC(C)=C1C(=O)OC Cyclization Fragment
+1376 238.107 C=CC(C(=C)C(C(=O)OC)=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1377 221.081 C#CC(C(=C)C(=C=C)C(=O)[OH+]C)=C(O)OC
+1378 237.1 C=c1c(C(=O)[O+]C)c(C)nc(C)c1=C(O)OC
+1379 219.089 [CH2][O+]=C=c1c(=C)nc(C)c(=C(O)OC)c1=C
+1380 221.068 [CH2]OC(=O)c1cnc(C)c(=C(O)[O+]=C)c1=C
+1381 237.1 [CH2]OC(=O)C=C(C)N=C(C)C(C=C)=C(O)[O+]=C Intermediate Fragment
+1382 141.078 C=CC(C(C)=[NH+])=C(O)OC
+1383 124.052 C#CC(C=C)=C([OH+])OC
+1384 211.084 [CH2]OC(=O)C=C(C)N=C(C)C=C(O)[O+]=C
+1385 237.1 C=C=NC(C)=C(C(=C)C=C(O)OC)C(=O)[O+]C Intermediate Fragment
+1386 209.068 [CH2]OC(=O)C1=C(C)NCC1=C=C(O)[O+]=C Cyclization Fragment
+1387 237.1 [CH2]OC(=O)C(C(=C)C(C=C)=C(O)[O+]=C)=C(C)N Intermediate Fragment
+1388 220.073 C#CC(C(=C)C(=C=C)C(=O)[O+]C)=C(O)OC
+1389 82.0287 C=C=C=C=[NH+]O
+1390 81.0209 C=C=C=C=[N+]O
+1391 80.0131 C=C=C=C=[N+]=O
+1392 79.0053 [CH]=C=C=C=[N+]=O
+1393 230.081 C#Cc1c(C(=O)OC)c(C)nc(=C)c1=C=[O+]C
+1394 232.06 C#Cc1c(C(=O)OC)cnc(C)c1C(=O)[O+]=C
+1395 248.092 C=C=C=C(C(=O)[O+]=C)C(C)=NC(C)=CC(=O)OC Intermediate Fragment
+1396 152.071 C=C=C=C(C(C)=[NH2+])C(=O)OC
+1397 150.055 C=C=C=C(C(C)=N)C(=O)[O+]=C
+1398 135.044 C#CC(=C=C=C)C(=[OH+])OC
+1399 133.028 C#CC(=C=C=C)C(=O)[O+]=C
+1400 248.092 C#CC(C(=C=C)C(C(=O)OC)=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1401 231.065 C#CC(C(=C=C)C(=C=C)C(=O)OC)=C(O)[O+]=C
+1402 246.076 C#CC(C(=O)[O+]=C)=C(C#C)C(C(=O)OC)=C(C)N
+1403 229.073 C#Cc1c(C(=O)OC)c(C)nc(=C)c1=C=[O+][CH2]
+1404 231.053 C#Cc1c(C(=O)O[CH2])cnc(C)c1C(=O)[O+]=C
+1405 247.084 [CH2]OC(=O)C=C(C)N=C(C)C(=C=C=C)C(=O)[O+]=C Intermediate Fragment
+1406 151.063 C=C=C=C(C(C)=[NH+])C(=O)OC
+1407 149.047 C=C=C=C(C(C)=[N])C(=O)[O+]=C
+1408 134.036 C#CC(=C=C=C)C(=[O+])OC
+1409 132.021 [C]#CC(=C=C=C)C(=O)[O+]=C
+1410 247.084 C#CC(C(=C=C)C(C(=O)O[CH2])=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1411 230.057 C#CC(C(=C=C)C(=C=C)C(=O)O[CH2])=C(O)[O+]=C
+1412 245.068 C#CC(C(=O)[O+]=C)=C(C#C)C(C(=O)O[CH2])=C(C)N
+1413 232.097 C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]C
+1414 234.076 C=C=c1c(C(=O)OC)cnc(C)c1=C(O)[O+]=C
+1415 224.092 C=c1nc(C)c(=C(O)OC)cc1C(=O)[OH+]C
+1416 250.107 C=C=CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1417 154.086 CC=C=C(C(C)=[NH2+])C(=O)OC
+1418 137.06 C#CC(=C=CC)C(=[OH+])OC
+1419 250.107 C=C=C(C(C=C)=C(O)[O+]=C)C(C(=O)OC)=C(C)N Intermediate Fragment
+1420 233.081 C#CC(C(=C=C)C(=C=C)C(=O)[OH+]C)=C(O)OC
+1421 231.089 [CH2][O+]=C=c1c(=C)nc(C)c(=C(O)OC)c1=C=C
+1422 233.068 [CH2]OC(=O)c1cnc(C)c(=C(O)[O+]=C)c1=C=C
+1423 223.084 C=c1nc(C)c(=C(O)OC)cc1C(=O)[O+]C
+1424 249.1 [CH2]OC(=O)C=C(C)N=C(C)C(C=C=C)=C(O)[O+]=C Intermediate Fragment
+1425 153.078 CC=C=C(C(C)=[NH+])C(=O)OC
+1426 136.052 C#CC(=C=CC)C(=[O+])OC
+1427 249.1 [CH2]OC(=O)C(C(=C=C)C(C=C)=C(O)[O+]=C)=C(C)N Intermediate Fragment
+1428 232.073 C#CC(C(=C=C)C(=C=C)C(=O)[O+]C)=C(O)OC
+1429 84.0444 C#CC=C[NH2+]O
+1430 83.0366 C#CC=C[NH+]O
+1431 77.9974 [C+]#CC#CN=O
+1432 252.123 C=CC1C(=C(O)OC)C(C)=NC(=C)C1C(=O)[OH+]C
+1433 234.112 C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C[OH+]C
+1434 236.092 C=C=c1c(C(=O)[OH+]C)cnc(C)c1=C(O)OC
+1435 226.107 C=C1N=C(C)C(=C(O)OC)CC1C(=O)[OH+]C
+1436 252.123 C=C=CC(C(C)=NC(=C)CC(=O)[OH+]C)=C(O)OC Intermediate Fragment
+1437 156.102 CC=CC(C(C)=[NH2+])=C(O)OC
+1438 103.075 CCCC(=O)[OH+]C
+1439 139.075 C=C=CC(C=C)=C([OH2+])OC
+1440 120.102 COC(O)CC(C)[NH3+]
+1441 146.118 CC[NH2+]C(C)CC(=O)OC
+1442 252.123 C=C=NC(=C)C(C(=O)[OH+]C)C(C=C)C=C(O)OC Intermediate Fragment
+1443 252.123 C=C=C(C(C=C)=C(O)OC)C(C(=C)N)C(=O)[OH+]C Intermediate Fragment
+1444 235.096 C=C=C(C(=O)[OH+]C)C(=C=C)C(C=C)=C(O)OC
+1445 251.115 C=CC1C(=C(O)OC)C(C)=NC(=C)C1C(=O)[O+]C
+1446 233.105 C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C[O+]C
+1447 235.084 C=C=c1c(C(=O)[O+]C)cnc(C)c1=C(O)OC
+1448 225.1 C=C1N=C(C)C(=C(O)OC)CC1C(=O)[O+]C
+1449 251.115 C=C=CC(C(C)=NC(=C)CC(=O)[O+]C)=C(O)OC Intermediate Fragment
+1450 155.094 CC=CC(C(C)=[NH+])=C(O)OC
+1451 102.068 CCCC(=O)[O+]C
+1452 138.068 C=C=CC(C=C)=C([OH+])OC
+1453 119.094 COC(O)CC(C)[NH2+]
+1454 145.11 CC[NH+]C(C)CC(=O)OC
+1455 251.115 C=C=NC(=C)C(C(=O)[O+]C)C(C=C)C=C(O)OC Intermediate Fragment
+1456 251.115 C=C=C(C(C=C)=C(O)OC)C(C(=C)N)C(=O)[O+]C Intermediate Fragment
+1457 234.089 C=C=C(C(=O)[O+]C)C(=C=C)C(C=C)=C(O)OC
+1458 70.0287 C=C=C=[NH+]O
+1459 69.0209 C=C=C=[N+]O
+1460 68.0131 C=C=C=[N+]=O
+1461 67.0053 [CH]=C=C=[N+]=O
+1462 260.092 C#CC#CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1463 164.071 C#CC#CC(C(C)=[NH2+])=C(O)OC
+1464 162.055 C#CC#CC(C(C)=N)=C(O)[O+]=C
+1465 147.044 C#CC#CC(C#C)=C([OH2+])OC
+1466 260.092 C#CC(C(=C=C=C)C(C(=O)OC)=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1467 259.084 C#CC#CC(C(C)=NC(C)=CC(=O)O[CH2])=C(O)[O+]=C Intermediate Fragment
+1468 163.063 C#CC#CC(C(C)=[NH+])=C(O)OC
+1469 161.047 C#CC#CC(C(C)=[N])=C(O)[O+]=C
+1470 146.036 C#CC#CC(C#C)=C([OH+])OC
+1471 259.084 C#CC(C(=C=C=C)C(C(=O)O[CH2])=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1472 262.107 C=C=C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)OC
+1473 244.097 C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]C
+1474 246.076 C=C=C=c1c(C(=O)OC)cnc(C)c1=C(O)[O+]=C
+1475 262.107 C=C=C=CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1476 166.086 C=CC#CC(C(C)=[NH2+])=C(O)OC
+1477 149.06 C#CC(C#CC=C)=C([OH2+])OC
+1478 262.107 C=C=C=C(C=C(O)OC)C(C(=O)[OH+]C)=C(C)N=C=C Intermediate Fragment
+1479 262.107 C=C=C=C(C(C=C)=C(O)[O+]=C)C(C(=O)OC)=C(C)N Intermediate Fragment
+1480 245.081 C#CC(C(=C=C=C)C(=C=C)C(=O)[OH+]C)=C(O)OC
+1481 261.1 C=C=C=c1c(C(=O)[O+]C)c(C)nc(C)c1=C(O)OC
+1482 243.089 [CH2][O+]=C=c1c(=C)nc(C)c(=C(O)OC)c1=C=C=C
+1483 245.068 [CH2]OC(=O)c1cnc(C)c(=C(O)[O+]=C)c1=C=C=C
+1484 261.1 [CH2]OC(=O)C=C(C)N=C(C)C(C=C=C=C)=C(O)[O+]=C Intermediate Fragment
+1485 165.078 C=CC#CC(C(C)=[NH+])=C(O)OC
+1486 148.052 C#CC(C#CC=C)=C([OH+])OC
+1487 261.1 C=C=C=C(C=C(O)OC)C(C(=O)[O+]C)=C(C)N=C=C Intermediate Fragment
+1488 261.1 [CH2]OC(=O)C(C(=C=C=C)C(C=C)=C(O)[O+]=C)=C(C)N Intermediate Fragment
+1489 244.073 C#CC(C(=C=C=C)C(=C=C)C(=O)[O+]C)=C(O)OC
+1490 58.0287 C=C=[NH+]O
+1491 57.0209 C=C=[N+]O
+1492 56.0131 C=C=[N+]=O
+1493 55.0053 [CH]=C=[N+]=O
+1494 256.06 C#CC#Cc1c(C(=O)OC)cnc(C)c1C(=O)[O+]=C
+1495 272.092 C=C=C=C=C=C(C(=O)[O+]=C)C(C)=NC(C)=CC(=O)OC Intermediate Fragment
+1496 176.071 C=C=C=C=C=C(C(C)=[NH2+])C(=O)OC
+1497 174.055 C=C=C=C=C=C(C(C)=N)C(=O)[O+]=C
+1498 159.044 C#CC(C#CC#CC)=C(O)[O+]=C
+1499 272.092 C#CC(C(=C=C=C=C)C(C(=O)OC)=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1500 255.053 C#CC#Cc1c(C(=O)O[CH2])cnc(C)c1C(=O)[O+]=C
+1501 271.084 [CH2]OC(=O)C=C(C)N=C(C)C(=C=C=C=C=C)C(=O)[O+]=C Intermediate Fragment
+1502 175.063 C=C=C=C=C=C(C(C)=[NH+])C(=O)OC
+1503 173.047 C=C=C=C=C=C(C(C)=[N])C(=O)[O+]=C
+1504 158.036 [C]#CC(C#CC#CC)=C(O)[O+]=C
+1505 271.084 C#CC(C(=C=C=C=C)C(C(=O)O[CH2])=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1506 269.068 C#CC#Cc1c(C(=O)O[CH2])c(=C)nc(C)c1=C(O)[O+]=C
+1507 256.097 C=C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]C
+1508 258.076 C=C=C=C=c1c(C(=O)OC)cnc(C)c1=C(O)[O+]=C
+1509 274.107 C=C=C=C=CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1510 178.086 CC=C=C=C=C(C(C)=[NH2+])C(=O)OC
+1511 161.06 C#CC(C#CC#CC)=C([OH2+])OC
+1512 274.107 C=C=C=C=C(C(C=C)=C(O)[O+]=C)C(C(=O)OC)=C(C)N Intermediate Fragment
+1513 257.081 C#CC(C(=C=C=C=C)C(=C=C)C(=O)[OH+]C)=C(O)OC
+1514 255.089 [CH2][O+]=C=c1c(=C)nc(C)c(=C(O)OC)c1=C=C=C=C
+1515 257.068 [CH2]OC(=O)c1cnc(C)c(=C(O)[O+]=C)c1=C=C=C=C
+1516 273.1 [CH2]OC(=O)C=C(C)N=C(C)C(C=C=C=C=C)=C(O)[O+]=C Intermediate Fragment
+1517 177.078 CC=C=C=C=C(C(C)=[NH+])C(=O)OC
+1518 160.052 C#CC(C#CC#CC)=C([OH+])OC
+1519 273.1 [CH2]OC(=O)C(C(=C=C=C=C)C(C=C)=C(O)[O+]=C)=C(C)N Intermediate Fragment
+1520 256.073 C#CC(C(=C=C=C=C)C(=C=C)C(=O)[O+]C)=C(O)OC
+1521 60.0444 C=C[NH2+]O
+1522 59.0366 C=C[NH+]O
+1523 53.9974 [C+]#CN=O
+1524 276.123 C=CC#CC1C(=C(O)OC)C(C)=NC(=C)C1C(=O)[OH+]C
+1525 258.112 C=CC#CC1C(=C=[O+]C)C(=C)N=C(C)C1=C(O)OC
+1526 260.092 C=CC#CC1C(C(=O)OC)=CN=C(C)C1=C(O)[O+]=C
+1527 276.123 C=CC#CCC(C(C)=NC(=C)CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1528 180.102 CCC=C=C=C(C(C)=[NH2+])C(=O)OC
+1529 163.075 C#CC(C#CC=CC)=C([OH2+])OC
+1530 276.123 C=C=NC(=C)C(C(=O)[OH+]C)C(C#CC=C)C=C(O)OC Intermediate Fragment
+1531 276.123 C=CC#CC(C(C=C)=C(O)OC)=C(C(=C)N)C(=O)[OH+]C Intermediate Fragment
+1532 259.096 C=CC#CC(C(C=C)=C(O)[O+]=C)=C(C=C)C(=O)OC
+1533 275.115 C=CC#CC1C(=C(O)OC)C(C)=NC(=C)C1C(=O)[O+]C
+1534 257.105 [CH2][O+]=C=C1C(=C)N=C(C)C(=C(O)OC)C1C#CC=C
+1535 259.084 [CH2]OC(=O)C1=CN=C(C)C(=C(O)[O+]=C)C1C#CC=C
+1536 275.115 [CH2]OC(=O)CC(=C)N=C(C)C(CC#CC=C)=C(O)[O+]=C Intermediate Fragment
+1537 179.094 CCC=C=C=C(C(C)=[NH+])C(=O)OC
+1538 162.068 C#CC(C#CC=CC)=C([OH+])OC
+1539 275.115 C=C=NC(=C)C(C(=O)[O+]C)C(C#CC=C)C=C(O)OC Intermediate Fragment
+1540 275.115 C=CC#CC(C(C=C)=C(O)OC)=C(C(=C)N)C(=O)[O+]C Intermediate Fragment
+1541 258.089 [CH2]OC(=O)C(C=C)=C(C#CC=C)C(C=C)=C(O)[O+]=C
+1542 46.0287 C=[NH+]O
+1543 45.0209 C=[N+]O
+1544 44.0131 C=[N+]=O
+1545 43.0053 [CH]=[N+]=O
+1546 283.084 [CH2]OC(=O)c1c(C)nc(C)c(=C(O)[O+]=C)c1=C=C=C=C=C
+1547 286.107 C=C=C=C=C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)OC
+1548 268.097 C=C=C=C=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]C
+1549 270.076 C=C=C=C=C=c1c(C(=O)OC)cnc(C)c1=C(O)[O+]=C
+1550 286.107 C=C=C=C=C=CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C Intermediate Fragment
+1551 190.086 C=CC#CC#CC(C(C)=[NH2+])=C(O)OC
+1552 188.071 C#CC#CC#CC(C(C)=[NH2+])=C(O)OC
+1553 173.06 C#CC(C#CC#CC=C)=C([OH2+])OC
+1554 75.0229 C#CC#CC#[CH2+]
+1555 286.107 C=C=C=C=C=C(C=C(O)OC)C(C(=O)[OH+]C)=C(C)N=C=C Intermediate Fragment
+1556 286.107 C=C=C=C=C=C(C(C=C)=C(O)[O+]=C)C(C(=O)OC)=C(C)N Intermediate Fragment
+1557 285.1 C=C=C=C=C=c1c(C(=O)[O+]C)c(C)nc(C)c1=C(O)OC
+1558 267.089 [CH2][O+]=C=c1c(=C)nc(C)c(=C(O)OC)c1=C=C=C=C=C
+1559 269.068 [CH2]OC(=O)c1cnc(C)c(=C(O)[O+]=C)c1=C=C=C=C=C
+1560 285.1 [CH2]OC(=O)C=C(C)N=C(C)C(C=C=C=C=C=C)=C(O)[O+]=C Intermediate Fragment
+1561 189.078 C=CC#CC#CC(C(C)=[NH+])=C(O)OC
+1562 187.063 C#CC#CC#CC(C(C)=[NH+])=C(O)OC
+1563 172.052 C#CC(C#CC#CC=C)=C([OH+])OC
+1564 74.0151 C#CC#C[C]=[CH+]
+1565 285.1 C=C=C=C=C=C(C=C(O)OC)C(C(=O)[O+]C)=C(C)N=C=C Intermediate Fragment
+1566 285.1 [CH2]OC(=O)C(C(=C=C=C=C=C)C(C=C)=C(O)[O+]=C)=C(C)N Intermediate Fragment
+1567 346.116 C=C=C=C=C(C=c1c(C(=O)[OH+]C)c(C)nc(C)c1=C(O)OC)[N+]([O-])O Intermediate Fragment
+1568 320.1 C#CC(=C=c1c(C(=O)OC)c(C)nc(C)c1=C(O)OC)[N+](O)O
+1569 304.069 C#CC(=C=c1c(C([O])=O)c(C)nc(C)c1=C(O)[O+]=C)N(O)O
+1570 303.098 C#CC(=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+]C)N(O)O
+1571 302.09 C#CC(=C=c1c(=C(O)OC)c(C)nc(=C)c1=C=[O+][CH2])N(O)O
+1572 305.077 C#CC(=C=c1c(C(=O)OC)cnc(C)c1=C(O)[O+]=C)N(O)O
+1573 304.069 C#CC(=C=c1c(C(=O)O[CH2])cnc(C)c1=C(O)[O+]=C)N(O)O
+1574 303.098 C#CC(=C=c1c(C(=O)OC)c(C)nc(C)c1=C(O)OC)[NH+]=O
+1575 302.09 C#CC(=C=c1c(C(=O)OC)c(C)nc(C)c1=C(O)OC)[N+]=O
+1576 320.1 C#CC(=C=CC(C(C)=NC(C)=CC(=O)O[CH2])=C(O)[O+]=C)N(O)O Intermediate Fragment
+1577 224.079 C#CC(C=C=C(C(C)=[NH+])C(=O)OC)N(O)O
+1578 225.087 C#CC(C=C=C(C(C)=[NH2+])C(=O)OC)N(O)O
+1579 222.064 C#CC(=C=C=C(C(C)=[NH+])C(=O)OC)N(O)O
+1580 223.071 C#CC(=C=C=C(C(C)=[NH2+])C(=O)OC)N(O)O
+1581 220.048 C#CC(=C=C=C(C(C)=[N])C(=O)[O+]=C)N(O)O
+1582 221.056 C#CC(=C=C=C(C(C)=N)C(=O)[O+]=C)N(O)O
+1583 207.053 C#CC(=C=CC(C#C)[N+](O)O)C(=O)OC
+1584 208.06 C#CC(=C=CC(C#C)[NH+](O)O)C(=O)OC
+1585 205.037 C#CC(=C=C=C(C#C)[N+](O)O)C(=O)OC
+1586 206.045 C#CC(=C=C=C(C#C)[NH+](O)O)C(=O)OC
+1587 203.021 [C]#CC(=C=C=C(C#C)N(O)O)C(=O)[O+]=C
+1588 204.029 C#CC(=C=C=C(C#C)N(O)O)C(=O)[O+]=C
+1589 318.085 C#CC(=C=C=C(C(=O)[O+]=C)C(C)=NC(C)=CC(=O)O[CH2])N(O)O
+1590 319.092 C#CC(=C=C=C(C(=O)[O+]=C)C(C)=NC(C)=CC(=O)OC)N(O)O
+1591 320.1 C#CC(=C=C(C=C(O)OC)C(C(=O)OC)=C(C)N=C=C)[N+](O)O Intermediate Fragment
+1592 320.1 C#CC(=C=C(C(C=C)=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N)N(O)O Intermediate Fragment
+1593 304.082 C#CC(=C=C(C(=C=C)C(=O)OC)C(C#C)=C(O)OC)[NH+](O)O
+1594 303.074 C#CC(=C=C(C(=C=C)C(=O)OC)C(C#C)=C(O)OC)[N+](O)O
+1595 318.085 C#CC(=C=C(C(C#C)=C(O)[O+]=C)C(C(=O)O[CH2])=C(C)N)N(O)O
+1596 319.092 C#CC(=C=C(C(C#C)=C(O)[O+]=C)C(C(=O)OC)=C(C)N)N(O)O
+1597 321.108 C#CC(=C=c1c(C(=O)OC)c(C)nc(C)c1=C(O)OC)[NH+](O)O
+1598 321.108 C#CC(=C=CC(C(C)=NC(C)=CC(=O)OC)=C(O)[O+]=C)N(O)O Intermediate Fragment
+1599 321.108 C#CC(=C=C(C=C(O)OC)C(C(=O)OC)=C(C)N=C=C)[NH+](O)O Intermediate Fragment
+1600 321.108 C#CC(=C=C(C(C=C)=C(O)[O+]=C)C(C(=O)OC)=C(C)N)N(O)O Intermediate Fragment
+1601 301.082 C#CC(=C=c1c(C(=O)OC)c(C)nc(C)c1=C(O)[O+]=C)N=O
+1602 300.074 C#CC(=C=c1c(C(=O)O[CH2])c(C)nc(C)c1=C(O)[O+]=C)N=O
+1603 302.066 C#CC(=C=C(C(=C=C)C(=O)OC)C(C#C)=C(O)[O+]=C)N(O)O
+1604 301.058 C#CC(=C=C(C(=C=C)C(=O)O[CH2])C(C#C)=C(O)[O+]=C)N(O)O
+1605 278.053 C=[O+]C(O)=c1c(C)nc(=C)c(C([O])=O)c1C#CN(O)O
+1606 277.082 C=c1nc(C)c(C(=O)OC)c(C#CN(O)O)c1=C=[O+]C
+1607 276.074 [CH2][O+]=C=c1c(C#CN(O)O)c(C(=O)OC)c(C)nc1=C
+1608 279.061 C=[O+]C(=O)c1c(C)ncc(C(=O)OC)c1C#CN(O)O
+1609 278.053 [CH2]OC(=O)c1cnc(C)c(C(=O)[O+]=C)c1C#CN(O)O
+1610 277.082 C=[O+]C(O)=c1c(C)nc(C)c(C(=O)OC)c1=C=C=NO
+1611 276.074 [CH2]OC(=O)c1c(C)nc(C)c(=C(O)[O+]=C)c1=C=C=NO
+1612 294.085 [CH2]OC(=O)C=C(C)N=C(C)C(=C=C=CN(O)O)C(=O)[O+]=C Intermediate Fragment
+1613 198.064 COC(=O)C(=C=C=CN(O)O)C(C)=[NH+]
+1614 199.071 COC(=O)C(=C=C=CN(O)O)C(C)=[NH2+]
+1615 196.048 C=[O+]C(=O)C(=C=C=CN(O)O)C(C)=[N]
+1616 197.056 C=[O+]C(=O)C(=C=C=CN(O)O)C(C)=N
+1617 181.037 C#CC(=C=C=C[N+](O)O)C(=O)OC
+1618 182.045 C#CC(=C=C=C[NH+](O)O)C(=O)OC
+1619 179.021 [C]#CC(=C=C=CN(O)O)C(=O)[O+]=C
+1620 180.029 C#CC(=C=C=CN(O)O)C(=O)[O+]=C
+1621 294.085 C#CC(C(=C=CN(O)O)C(C(=O)O[CH2])=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1622 278.066 C#CC(C(=C=CN(O)O)C(=C=C)C(=O)OC)=C(O)[O+]=C
+1623 277.058 C#CC(C(=C=CN(O)O)C(=C=C)C(=O)O[CH2])=C(O)[O+]=C
+1624 292.069 C#CC(C(=O)[O+]=C)=C(C#CN(O)O)C(C(=O)O[CH2])=C(C)N
+1625 293.077 C#CC(C(=O)[O+]=C)=C(C#CN(O)O)C(C(=O)OC)=C(C)N
+1626 295.092 C=[O+]C(=O)C(=C=C=CN(O)O)C(C)=NC(C)=CC(=O)OC Intermediate Fragment
+1627 295.092 C#CC(C(=C=CN(O)O)C(C(=O)OC)=C(C)N)=C(O)[O+]=C Intermediate Fragment
+1628 296.1 C=c1nc(C)c(=C(O)OC)c(C=C[N+](O)O)c1C(=O)OC
+1629 281.077 C=[O+]C(O)=c1c(C)nc(=C)c(C(=O)O)c1C=CN(O)O
+1630 279.098 C=c1nc(C)c(=C(O)OC)c(=C=CN(O)O)c1=C=[O+]C
+1631 278.09 [CH2][O+]=C=c1c(=C)nc(C)c(=C(O)OC)c1=C=CN(O)O
+1632 281.077 C=[O+]C(O)=c1c(C)ncc(C(=O)OC)c1=C=CN(O)O
+1633 280.069 [CH2]OC(=O)c1cnc(C)c(=C(O)[O+]=C)c1=C=CN(O)O
+1634 279.098 C=c1nc(C)c(=C(O)OC)c(C=C=[NH+]O)c1C(=O)OC
+1635 278.09 C=c1nc(C)c(=C(O)OC)c(C=C=[N+]O)c1C(=O)OC
+1636 296.1 [CH2]OC(=O)CC(=C)N=C(C)C(C=C=CN(O)O)=C(O)[O+]=C Intermediate Fragment
+1637 200.079 COC(=O)C(=C=CCN(O)O)C(C)=[NH+]
+1638 201.087 COC(=O)C(=C=CCN(O)O)C(C)=[NH2+]
+1639 183.053 C#CC(=C=CC[N+](O)O)C(=O)OC
+1640 184.06 C#CC(=C=CC[NH+](O)O)C(=O)OC
+1641 296.1 C=C=NC(=C)C(C(=O)OC)=C(C=C[N+](O)O)C=C(O)OC Intermediate Fragment
+1642 296.1 [CH2]OC(=O)C(C(=C)N)=C(C=CN(O)O)C(C=C)=C(O)[O+]=C Intermediate Fragment
+1643 280.082 C#CC(C(=C=C[NH+](O)O)C(=C=C)C(=O)OC)=C(O)OC
+1644 279.074 C#CC(C(=C=C[N+](O)O)C(=C=C)C(=O)OC)=C(O)OC
+1645 297.108 C=c1nc(C)c(=C(O)OC)c(C=C[NH+](O)O)c1C(=O)OC
+1646 297.108 C=[O+]C(O)=C(C=C=CN(O)O)C(C)=NC(=C)CC(=O)OC Intermediate Fragment
+1647 297.108 C=C=NC(=C)C(C(=O)OC)=C(C=C[NH+](O)O)C=C(O)OC Intermediate Fragment
+1648 297.108 C=CC(=C(O)[O+]=C)C(C=CN(O)O)=C(C(=C)N)C(=O)OC Intermediate Fragment
+1649 275.066 C=[O+]C(O)=c1c(C)nc(=C)c(C(=O)OC)c1C#CN=O
+1650 274.058 [CH2]OC(=O)c1c(C#CN=O)c(=C(O)[O+]=C)c(C)nc1=C
+1651 276.05 C#CC(C(=O)[O+]=C)=C(C#CN(O)O)C(=C=C)C(=O)OC
+1652 275.042 C#CC(C(=O)[O+]=C)=C(C#CN(O)O)C(=C=C)C(=O)O[CH2]

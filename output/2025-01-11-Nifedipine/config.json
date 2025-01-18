@@ -1,0 +1,58 @@
+{
+    "test_mol": "O=C(OC)C1=C(C)NC(C)=C(C(OC)=O)C1C2=C([N+]([O-])=O)C=CC=C2",
+    "compound_id": "Nifedipine",
+    "data": [
+        "Nifedipine-HLM-1h.mzML",
+        "Nifedipine-MLM-1h.mzML",
+        "Nifedipine-RLM-1h.mzML"
+    ],
+    "standard": "Nifedipine-HLM-1h.mzML",
+    "blank": [
+        "HLM-BACK.mzML",
+        "MLM-BACK.mzML",
+        "RLM-BACK.mzML"
+    ],
+    "prepare": {
+        "type": "+",
+        "parent_charge": 0,
+        "neutral_loss": 2.0157,
+        "acquisition_delay": 0.0
+    },
+    "screening": {
+        "ppm_range": 5.0,
+        "signal_base": 5E4,
+        "signal_limit": 1E5,
+        "similarity_limit": 0.5
+    },
+    "lc_settings": {
+        "retention_start": 3.0,
+        "retention_end": 12.0,
+        "rt_range": 0.05
+    },
+    "cfmid": {
+        "predict_spectrum": false,
+        "skip_fragments": false,
+        "manual_annotation": false
+    },
+    "formulacalc": {
+        "no_mist_cf": false,
+        "disable_fc": false,
+        "formula_range": ""
+    },
+    "mdf": {
+        "try_analyse": false,
+        "combine": 1,
+        "main": true
+    },
+    "peak": {
+        "mDa": 10.0,
+        "width": 0.1,
+        "not_merge": false,
+        "score_min": 60.0
+    },
+    "met_predict": {
+        "disable_biotransformer": false
+    },
+    "debug": "",
+    "viewer": "2025-01-11-Nifedipine"
+}

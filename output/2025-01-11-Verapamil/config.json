@@ -1,0 +1,58 @@
+{
+    "test_mol": "COC1=CC=C(C(C#N)(C(C)C)CCCN(CCC2=CC(OC)=C(OC)C=C2)C)C=C1OC",
+    "compound_id": "Verapamil",
+    "data": [
+        "Verapamil-HLM-1h.mzML",
+        "Verapamil-MLM-1h.mzML",
+        "Verapamil-RLM-1h.mzML"
+    ],
+    "standard": "mixture.mzML",
+    "blank": [
+        "HLM-BACK.mzML",
+        "MLM-BACK.mzML",
+        "RLM-BACK.mzML"
+    ],
+    "prepare": {
+        "type": "+",
+        "parent_charge": 0,
+        "neutral_loss": 0.0,
+        "acquisition_delay": 0.0
+    },
+    "screening": {
+        "ppm_range": 5.0,
+        "signal_base": 5E4,
+        "signal_limit": 1E5,
+        "similarity_limit": 0.6
+    },
+    "lc_settings": {
+        "retention_start": 2.0,
+        "retention_end": 12.0,
+        "rt_range": 0.05
+    },
+    "cfmid": {
+        "predict_spectrum": false,
+        "skip_fragments": false,
+        "manual_annotation": false
+    },
+    "formulacalc": {
+        "no_mist_cf": false,
+        "disable_fc": false,
+        "formula_range": ""
+    },
+    "mdf": {
+        "try_analyse": false,
+        "combine": 1,
+        "main": false
+    },
+    "peak": {
+        "mDa": 10.0,
+        "width": 0.1,
+        "not_merge": false,
+        "score_min": 60.0
+    },
+    "met_predict": {
+        "disable_biotransformer": false
+    },
+    "debug": "",
+    "viewer": "2025-01-11-Verapamil"
+}

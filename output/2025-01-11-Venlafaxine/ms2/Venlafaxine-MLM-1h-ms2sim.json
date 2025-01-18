@@ -1,0 +1,457 @@
+[
+    {
+        "id": 2,
+        "rt": 2.4840027,
+        "pmz": 294.205604357448,
+        "i": 5018858.0,
+        "charge": 1,
+        "ms2_similarity": 0.93,
+        "metapoint": [
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 17, 'H': 27, 'N': 1, 'O': 3}",
+        "mdf_matched": 0.5,
+        "isotopes": 0.556,
+        "adductive": [],
+        "score": 80.44,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)C(N(C)C)O)CCCCC1",
+            "enzymes": [
+                "CYP2B6",
+                "CYP2C19",
+                "CYP2D6"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "rt": 2.5353124,
+        "pmz": 294.205491589237,
+        "i": 4496761.0,
+        "charge": 1,
+        "ms2_similarity": 0.929,
+        "metapoint": [
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 17, 'H': 27, 'N': 1, 'O': 3}",
+        "mdf_matched": 0.5,
+        "isotopes": 1.958,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 95.43,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)C(N(C)C)O)CCCCC1",
+            "enzymes": [
+                "CYP2B6",
+                "CYP2C19",
+                "CYP2D6"
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "rt": 2.5887052,
+        "pmz": 294.205473604277,
+        "i": 1794892.8,
+        "charge": 1,
+        "ms2_similarity": 0.921,
+        "metapoint": [
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 17, 'H': 27, 'N': 1, 'O': 3}",
+        "mdf_matched": 0.5,
+        "isotopes": 1.997,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 95.12,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)C(N(C)C)O)CCCCC1",
+            "enzymes": [
+                "CYP2B6",
+                "CYP2C19",
+                "CYP2D6"
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "rt": 2.9354874,
+        "pmz": 294.205655451879,
+        "i": 12104486.0,
+        "charge": 1,
+        "ms2_similarity": 0.921,
+        "metapoint": [
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 17, 'H': 27, 'N': 1, 'O': 3}",
+        "mdf_matched": 0.5,
+        "isotopes": 1.928,
+        "adductive": [],
+        "score": 93.43,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)C(N(C)C)O)CCCCC1",
+            "enzymes": [
+                "CYP2B6",
+                "CYP2C19",
+                "CYP2D6"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "rt": 2.9869553,
+        "pmz": 294.20569333048,
+        "i": 1148282.6,
+        "charge": 1,
+        "ms2_similarity": 0.932,
+        "metapoint": [
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 17, 'H': 27, 'N': 1, 'O': 3}",
+        "mdf_matched": 0.5,
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 95.1,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)C(N(C)C)O)CCCCC1",
+            "enzymes": [
+                "CYP2B6",
+                "CYP2C19",
+                "CYP2D6"
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "rt": 4.1315186,
+        "pmz": 264.195386518078,
+        "i": 58267412.0,
+        "charge": 1,
+        "ms2_similarity": 0.925,
+        "metapoint": [
+            "CCC=C=[CH3+]",
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "C=[C+]C(=C)C1(O)C=CC=CC1",
+            "Undefined",
+            "Undefined",
+            "C=C(C1=CCCCC1)c1ccc([OH+]C)cc1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 16, 'H': 25, 'N': 1, 'O': 2}",
+        "mdf_matched": 0.5,
+        "isotopes": 1.995,
+        "adductive": [
+            "[M+K]+"
+        ],
+        "score": 95.45,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)CNC)CCCCC1",
+            "enzymes": [
+                "CYP1A2",
+                "CYP2A6",
+                "CYP2B6",
+                "CYP2C8",
+                "CYP2C9",
+                "CYP2C19",
+                "CYP2D6",
+                "CYP2E1",
+                "CYP3A4"
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "rt": 4.1612806,
+        "pmz": 246.184387610943,
+        "i": 1609094.8,
+        "charge": 1,
+        "ms2_similarity": 0.935,
+        "metapoint": [
+            "Undefined",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 16, 'H': 24, 'N': 1, 'O': 1}",
+        "mdf_matched": 0,
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 94.76,
+        "biotransformer": {}
+    },
+    {
+        "id": 11,
+        "rt": 4.1810844,
+        "pmz": 264.195317168378,
+        "i": 16142816.0,
+        "charge": 1,
+        "ms2_similarity": 0.934,
+        "metapoint": [
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "C=[C+]C(=C)C1(O)C=CC=CC1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 16, 'H': 25, 'N': 1, 'O': 2}",
+        "mdf_matched": 0.5,
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 95.2,
+        "biotransformer": {
+            "product": "OC1(C(C2=CC=C(OC)C=C2)CNC)CCCCC1",
+            "enzymes": [
+                "CYP1A2",
+                "CYP2A6",
+                "CYP2B6",
+                "CYP2C8",
+                "CYP2C9",
+                "CYP2C19",
+                "CYP2D6",
+                "CYP2E1",
+                "CYP3A4"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "rt": 5.3671596,
+        "pmz": 278.210902792701,
+        "i": 223032784.0,
+        "charge": 1,
+        "ms2_similarity": 0.998,
+        "metapoint": [
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "C=[C+]C(=C)C1(O)C=CC=CC1",
+            "[CH+]=C(C)C(=C)C1(O)C=CC=CC1",
+            "Undefined",
+            "Undefined",
+            "C=C(C1=CCCCC1)c1ccc([OH+]C)cc1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'O': 2, 'C': 17, 'N': 1, 'H': 27}",
+        "mdf_matched": 0.5,
+        "isotopes": 1.774,
+        "adductive": [],
+        "score": 98.12,
+        "biotransformer": {}
+    },
+    {
+        "id": 16,
+        "rt": 5.3811156,
+        "pmz": 260.200106432155,
+        "i": 5084278.5,
+        "charge": 1,
+        "ms2_similarity": 0.978,
+        "metapoint": [
+            "Undefined",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'C': 17, 'H': 25, 'N': 1, 'O': 1}",
+        "mdf_matched": 0.5,
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 98.76,
+        "biotransformer": {}
+    },
+    {
+        "id": 17,
+        "rt": 5.4050298,
+        "pmz": 278.210930138068,
+        "i": 38384832.0,
+        "charge": 1,
+        "ms2_similarity": 0.999,
+        "metapoint": [
+            "Undefined",
+            "CCC=[CH3+]",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "C=[C+]C(=C)C1(O)C=CC=CC1",
+            "Undefined",
+            "C=C(C1=CCCCC1)c1ccc([OH+]C)cc1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'O': 2, 'C': 17, 'N': 1, 'H': 27}",
+        "mdf_matched": 0.5,
+        "isotopes": 1.985,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 101.28,
+        "biotransformer": {}
+    },
+    {
+        "id": 18,
+        "rt": 5.4430375,
+        "pmz": 278.210686040602,
+        "i": 3082421.5,
+        "charge": 1,
+        "ms2_similarity": 0.953,
+        "metapoint": [
+            "Undefined",
+            "Undefined",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "C=[C+]C(=C)C1(O)C=CC=CC1",
+            "Undefined",
+            "C=C(C1=CCCCC1)c1ccc([OH+]C)cc1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'O': 2, 'C': 17, 'N': 1, 'H': 27}",
+        "mdf_matched": 0.5,
+        "isotopes": 2.0,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 97.77,
+        "biotransformer": {}
+    },
+    {
+        "id": 19,
+        "rt": 5.4837473,
+        "pmz": 278.210563160454,
+        "i": 1854320.9,
+        "charge": 1,
+        "ms2_similarity": 0.859,
+        "metapoint": [
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "C=[C+]C(=C)C1(O)C=CC=CC1",
+            "Undefined",
+            "C=C(C1=CCCCC1)c1ccc([OH+]C)cc1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'O': 2, 'C': 17, 'N': 1, 'H': 27}",
+        "mdf_matched": 0.5,
+        "isotopes": 2.0,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 90.18,
+        "biotransformer": {}
+    },
+    {
+        "id": 20,
+        "rt": 5.5383423,
+        "pmz": 278.210554962882,
+        "i": 1211060.1,
+        "charge": 1,
+        "ms2_similarity": 0.687,
+        "metapoint": [
+            "Undefined",
+            "Undefined",
+            "CCC=[CH3+]",
+            "CCC=[CH3+]",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "Undefined",
+            "C=[O+]c1ccc(C)cc1",
+            "Undefined",
+            "C=C(C1=CCCCC1)c1ccc([OH+]C)cc1",
+            "CCCCC=CC(=C[NH+](C)C)c1ccc(OC)cc1",
+            "CCCCCC(O)C(=C[NH+](C)C)c1ccc(OC)cc1"
+        ],
+        "formula": "{'O': 2, 'C': 17, 'N': 1, 'H': 27}",
+        "mdf_matched": 0.5,
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 75.42,
+        "biotransformer": {}
+    }
+]
