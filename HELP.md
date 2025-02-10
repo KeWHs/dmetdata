@@ -61,14 +61,14 @@ There are many parameters in the config file. You can adjust the parameters acco
 
 #### Scoring Module
 
-* **mDa Range** The maximum tolerance of the absolute error of m/z.
-* **Peak Width** The width(min) of the peak.
-* **Not Merge Close Peaks** If true, the program will not merge the peaks with both similar m/z value and close retention time.
-* **Minimum Score** The minimum score of the metabolite. All the metabolites with scores lower than this value will be filtered out.
+* **mDa Range.** The maximum tolerance of the absolute error of m/z.
+* **Peak Width.** The width(min) of the peak.
+* **Not Merge Close Peaks.** If true, the program will not merge the peaks with both similar m/z value and close retention time.
+* **Minimum Score.** The minimum score of the metabolite. All the metabolites with scores lower than this value will be filtered out.
 
 #### Structure Prediction Module
 
-* **Not Use BioTransformer** Disable biotransformer prediction.
+* **Not Use BioTransformer.** Disable biotransformer prediction.
 
 #### Debug
 
