@@ -1,7 +1,8 @@
-### DMetFinder Raw Data
+### DMetFinder Tool and Raw MS Data
 
 #### This is the raw data and results of the DMetFinder analysis.
 
 #### You can download release version of DMetFinder tool here.
 
-#### Detailed operation process of DMetFinder is shown in GUIDLINE.md ().
+* Detailed operation process of DMetFinder is shown in **GUIDLINE.md**.
+* For further customized configuration, please check **HELP.md**.
