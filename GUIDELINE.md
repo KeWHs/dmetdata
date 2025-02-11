@@ -8,7 +8,7 @@
 ### DMetFinder Usage
 1. Download the release version of DMetFinder and unpack the dmetfinder.zip file.
 
-2. Place the license key in the same folder as the exe executable file.
+2. Place the **license key** in the same folder as the exe executable file.
 
 3. Double click the **dmetfinder.exe** file to start the program.
 

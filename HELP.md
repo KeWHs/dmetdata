@@ -31,7 +31,7 @@ You can adjust the parameters according to your needs. The following is a list o
 
 #### MS2 Screening Module
 
-* **PPM range.** The maximum tolerance of the relative error(PPM) of m/z.
+* **PPM range.** The maximum tolerance of the relative error(PPM) of *m/z*.
 * **Signal Base.** The basic intensity to distinguish the noise peaks.
 * **Signal Limit.** The minimum intensity of the metabolite.
 * **Similarity Limit.** The minimum tolerance of MS2 similarity with the parent.
@@ -50,20 +50,20 @@ You can adjust the parameters according to your needs. The following is a list o
 #### Formula Prediction Module
 
 * **Not Use MIST-CF.** If true, DMetFinder will not use MIST-CF to annotate formulas for the precursors.
-* **Disable Formula Prediction.** If true, DMetFinder will calculate the molecular formula for unknown metabolites which cannot be matched in MDF module.
-* **Formula Range.** The range of molecular formula prediction for unknown metabolites. The formulacalc module has an algorithm to generate a formula range. So, this is not necessary and the default value if "". If you want to specify the range, please write it in the form like "C0-12H8-16O0-2Cl0-1".
+* **Disable Formula Prediction.** If true, DMetFinder will calculate the molecular formula for unknown metabolites which cannot be matched with metabolic transformation library.
+* **Formula Range.** The range of molecular formula prediction for unknown metabolites. The formulacalc module has an algorithm to generate a formula range. Therefore, this is not necessary and the default value is "". If you want to specify the range, please write it in the form like "C0-12H8-16O0-2Cl0-1".
 
 #### MDF Module
 
-* **Try MDF Analyse.** DMetFinder will try to find the metabolite in the metabolic tranformation library.
+* **Try MDF Analyse.** DMetFinder will try to use MDF algorithm to confirm metabolite formulas matched with metabolic transformation library.
 * **Metabolism Pathway Combine.** Only 1 and 2 available. If set to 1, the program will only read the metabolism paths included in lib file and fragments annotated in previous module. And if set to 2, it will calculate the combination of different metabolism paths.
 * **As Main Scoring Weight.** Beta Option. Different weight scoring for DIA data.
 
 #### Scoring Module
 
-* **mDa Range.** The maximum tolerance of the absolute error of m/z.
+* **mDa Range.** The maximum tolerance of the absolute error of *m/z*.
 * **Peak Width.** The width(min) of the peak.
-* **Not Merge Close Peaks.** If true, the program will not merge the peaks with both similar m/z value and close retention time.
+* **Not Merge Close Peaks.** If true, the program will not merge the peaks with both similar *m/z* value and close retention time.
 * **Minimum Score.** The minimum score of the metabolite. All the metabolites with scores lower than this value will be filtered out.
 
 #### Structure Prediction Module
@@ -72,4 +72,4 @@ You can adjust the parameters according to your needs. The following is a list o
 
 #### Debug
 
-* Used to edit output folder name. For example, if you set this to "-a", the output folder will be named as "20xx-xx-xx-<name>-analyse-a". This is useful when you want to compare the results of different parameters.
+* Used to edit output folder name. For example, if you set this to "-a", the output folder will be named as "20xx-xx-xx-<name>-analyse-a". This is useful when you want to compare the results of different parameters. All the output result folders are stored in **_internal/DMetFinder/output** folder.
