@@ -1,6 +1,6 @@
 ### Detailed Configuration
 Here is the description of the advanced parameters of DMetFinder.
-There are many parameters in the config file. You can adjust the parameters according to your needs. The following is a list of parameters:
+You can adjust the parameters according to your needs. The following is a list of parameters:
 
 #### Compound SMILES
 
