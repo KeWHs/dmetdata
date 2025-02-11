@@ -17,6 +17,7 @@
 
 5. Upload raw data files and configure the analysis parameters.
 * You can customize the analysis parameters in **Advanced** configs. Description of each parameter is provided in the [**HELP.md**](./HELP.md) file.
+* Please fill in an **email** address, but it does not have to be a real one. The **debug** parameter is unnecessary.
 * Finally, click **Submit Data** to start the analysis.
 * The parameters circled in red are mandatory:
 <br><p><img src="img/web_interface.png" alt="webinterface" width="300">
