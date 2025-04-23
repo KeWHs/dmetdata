@@ -1,0 +1,251 @@
+[
+    {
+        "id": 0,
+        "rt": 4.7155323,
+        "pmz": 481.184875048053,
+        "i": 83306.4,
+        "charge": 1,
+        "ms2_similarity": 0.473,
+        "metapoint": [],
+        "formula": "{'C': 26, 'F': 3, 'H': 24, 'N': 4, 'O': 2, 'S': 0}",
+        "mdf_matched": "Neutral loss 54",
+        "isotopes": 1.999,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 64.08,
+        "biotransformer": {
+            "product": "OC1=CC(C2=C(F)C=C3C(N4C[C@@H]5N[C@H](C4)CC5)=NC(O)=NC3=C2F)=C6C(CC)=C(F)C=CC6=C1",
+            "enzymes": [
+                "CYP1A2",
+                "CYP2A6",
+                "CYP2C9",
+                "CYP2C19",
+                "CYP2D6",
+                "CYP2E1",
+                "CYP3A4"
+            ]
+        }
+    },
+    {
+        "id": 1,
+        "rt": 5.0612738,
+        "pmz": 568.767403428816,
+        "i": 161768.9,
+        "charge": 2,
+        "ms2_similarity": 0.775,
+        "metapoint": [],
+        "formula": "{'C': 60, 'F': 3, 'H': 74, 'N': 9, 'O': 8, 'S': 1}",
+        "mdf_matched": "Oxidation",
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 84.27,
+        "biotransformer": {}
+    },
+    {
+        "id": 6,
+        "rt": 5.1258319,
+        "pmz": 560.769320184025,
+        "i": 6818685.0,
+        "charge": 2,
+        "ms2_similarity": 0.998,
+        "metapoint": [],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 74}",
+        "mdf_matched": "parent",
+        "isotopes": 1.992,
+        "adductive": [
+            "[M+H+K]2+"
+        ],
+        "score": 100.75,
+        "biotransformer": {}
+    },
+    {
+        "id": 3,
+        "rt": 5.0884133,
+        "pmz": 1120.531779921091,
+        "i": 575249.9,
+        "charge": 1,
+        "ms2_similarity": 0.405,
+        "metapoint": [
+            "[CH4+]CC=C=CN",
+            "C=C=COC[NH3+]",
+            "[CH4+]CCC=CN",
+            "Undefined",
+            "Undefined",
+            "[CH+]=C(C)CC(C)=N",
+            "C=C(C)CC(C)=[NH2+]",
+            "C#CC(=CC(C)[NH3+])CC",
+            "[NH3+]C(O)C1CC(O)C=N1",
+            "CC=C(C)C(C)=[NH+]C(C)=O",
+            "C=C=Cc1ccc([C+]=C)cc1",
+            "Undefined",
+            "CCC(C)C(C)=[NH+]C(C)=O",
+            "C=CC(=[SH+])c1ccc(C=C)cc1",
+            "CCC(CC)C(C)[NH2+]C(=O)C=C=C=O",
+            "C=Cc1ccc(C(=S)C(=C)[NH+]=C)cc1",
+            "N=C1[C+]=C(N2C=c3ccc([nH]3)=C2)NC1F",
+            "C=C1C=CCN1C=CCOCCC(O)[NH2+]CC(C)(C)C",
+            "Undefined",
+            "COC=C1C=CCN1C=C=COCCC(O)[NH2+]CC(C)(C)C",
+            "CNC(C)C(S)C1=CC=C(C(C)=[NH+]C(=O)C2=CC(=O)C=N2)CC1",
+            "C=C(N=Cc1cc(O)cn1C(=O)C(=[NH+]C(C)=O)C(C)(C)C)C1CCC(C2SCNC2C)CC1",
+            "C=C(C(=O)NC(C)C1CCC(C2SCNC2C)CC1)N(C)C(=O)C(=[NH+]C(=O)C#COCC#CN1CC=CC1=COC)C(C)(C)C",
+            "Undefined",
+            "C=C(C(O)NC(C)C1CCC(C2SCNC2C)CC1)N(C)C(=O)C(=[NH+]C(=O)C#COCC#CN1CC=CC1=COC)C(C)(C)C",
+            "Undefined"
+        ],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 73}",
+        "mdf_matched": "parent",
+        "isotopes": 2.0,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 59.34,
+        "biotransformer": {}
+    },
+    {
+        "id": 7,
+        "rt": 5.1542899,
+        "pmz": 481.184878072198,
+        "i": 211852.9,
+        "charge": 1,
+        "ms2_similarity": 0.476,
+        "metapoint": [],
+        "formula": "{'C': 26, 'F': 3, 'H': 24, 'N': 4, 'O': 2, 'S': 0}",
+        "mdf_matched": "Neutral loss 54",
+        "isotopes": 0.0,
+        "adductive": [
+            "[M+NH4]+",
+            "[M+CH3CN+H]+"
+        ],
+        "score": 45.29,
+        "biotransformer": {
+            "product": "OC1=CC(C2=C(F)C=C3C(N4C[C@@H]5N[C@H](C4)CC5)=NC(O)=NC3=C2F)=C6C(CC)=C(F)C=CC6=C1",
+            "enzymes": [
+                "CYP1A2",
+                "CYP2A6",
+                "CYP2C9",
+                "CYP2C19",
+                "CYP2D6",
+                "CYP2E1",
+                "CYP3A4"
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "rt": 5.1153381,
+        "pmz": 640.353295296067,
+        "i": 84882.5,
+        "charge": 1,
+        "ms2_similarity": 0.425,
+        "metapoint": [],
+        "formula": "{'C': 34, 'F': 0, 'H': 50, 'N': 5, 'O': 5, 'S': 1}",
+        "mdf_matched": "Neutral loss 57",
+        "isotopes": 1.998,
+        "adductive": [
+            "[M+H-2H2O]+",
+            "[M+K]+",
+            "[M+CH3CN+H]+",
+            "[M+Na]+"
+        ],
+        "score": 63.75,
+        "biotransformer": {}
+    },
+    {
+        "id": 8,
+        "rt": 5.1684899,
+        "pmz": 560.769237202142,
+        "i": 4872186.5,
+        "charge": 2,
+        "ms2_similarity": 0.996,
+        "metapoint": [],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 74}",
+        "mdf_matched": "parent",
+        "isotopes": 1.992,
+        "adductive": [
+            "[M+H+K]2+"
+        ],
+        "score": 100.61,
+        "biotransformer": {}
+    },
+    {
+        "id": 9,
+        "rt": 5.2118375,
+        "pmz": 560.769415507269,
+        "i": 602662.8,
+        "charge": 2,
+        "ms2_similarity": 0.997,
+        "metapoint": [],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 74}",
+        "mdf_matched": "parent",
+        "isotopes": 1.996,
+        "adductive": [
+            "[M+H+K]2+"
+        ],
+        "score": 100.75,
+        "biotransformer": {}
+    },
+    {
+        "id": 10,
+        "rt": 5.2621517,
+        "pmz": 560.76969059853,
+        "i": 228082.0,
+        "charge": 2,
+        "ms2_similarity": 0.995,
+        "metapoint": [],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 74}",
+        "mdf_matched": "parent",
+        "isotopes": 1.996,
+        "adductive": [],
+        "score": 99.6,
+        "biotransformer": {}
+    },
+    {
+        "id": 11,
+        "rt": 5.3465449,
+        "pmz": 596.77994644821,
+        "i": 61935.8,
+        "charge": 2,
+        "ms2_similarity": 0.713,
+        "metapoint": [],
+        "formula": "{'C': 63, 'H': 78, 'N': 9, 'O': 9, 'S': 1, 'F': 3}",
+        "mdf_matched": "",
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 69.92,
+        "biotransformer": {}
+    },
+    {
+        "id": 12,
+        "rt": 5.8898311,
+        "pmz": 568.766705780723,
+        "i": 675854.1,
+        "charge": 2,
+        "ms2_similarity": 0.779,
+        "metapoint": [],
+        "formula": "{'C': 60, 'F': 3, 'H': 74, 'N': 9, 'O': 8, 'S': 1}",
+        "mdf_matched": "Oxidation",
+        "isotopes": 1.999,
+        "adductive": [],
+        "score": 84.49,
+        "biotransformer": {}
+    },
+    {
+        "id": 13,
+        "rt": 5.9439349,
+        "pmz": 568.766887970958,
+        "i": 454632.6,
+        "charge": 2,
+        "ms2_similarity": 0.786,
+        "metapoint": [
+            "C=C1C(F)=CC2=C(N3C=c4ccc([nH]4)=C3)N=C(OC=C3C=CCN3CCCOCCC(O)[NH2+]C(C(O)NC)C(C)(C)C)NC2C1F"
+        ],
+        "formula": "{'C': 60, 'F': 3, 'H': 74, 'N': 9, 'O': 8, 'S': 1}",
+        "mdf_matched": "Oxidation",
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 85.0,
+        "biotransformer": {}
+    }
+]

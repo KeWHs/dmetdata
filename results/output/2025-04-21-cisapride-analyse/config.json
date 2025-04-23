@@ -1,0 +1,59 @@
+{
+    "test_mol": "COC1=C(C(N[C@@H]2CCN(CCCOC3=CC=C(F)C=C3)C[C@@H]2OC)=O)C=C(Cl)C(N)=C1",
+    "compound_id": "cisapride",
+    "data": [
+        "Cisapride-HLM-1h.mzML",
+        "Cisapride-MLM-1h.mzML",
+        "Cisapride-RLM-1h.mzML"
+    ],
+    "standard": "mixture.mzML",
+    "blank": [
+        "HLM-BACK.mzML",
+        "RLM-BACK.mzML",
+        "MLM-BACK.mzML"
+    ],
+    "prepare": {
+        "type": "+",
+        "parent_charge": 0,
+        "neutral_loss": 0.0,
+        "acquisition_delay": 0.0
+    },
+    "screening": {
+        "ppm_range": 8.0,
+        "signal_base": 10000.0,
+        "signal_limit": 50000.0,
+        "similarity_limit": 0.6
+    },
+    "lc_settings": {
+        "retention_start": 4.0,
+        "retention_end": 8.0,
+        "rt_range": 0.05
+    },
+    "cfmid": {
+        "predict_spectrum": false,
+        "skip_fragments": false,
+        "manual_annotation": false
+    },
+    "formulacalc": {
+        "no_mist_cf": false,
+        "disable_fc": false,
+        "formula_range": "",
+        "omega_range": 6
+    },
+    "mdf": {
+        "try_analyse": true,
+        "combine": 2,
+        "main": false
+    },
+    "peak": {
+        "mDa": 10.0,
+        "width": 0.1,
+        "not_merge": false,
+        "score_min": 80.0
+    },
+    "met_predict": {
+        "disable_biotransformer": false
+    },
+    "debug": "",
+    "viewer": "2025-04-21-cisapride-analyse"
+}

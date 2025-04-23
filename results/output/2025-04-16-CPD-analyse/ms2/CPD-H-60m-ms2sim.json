@@ -1,0 +1,74 @@
+[
+    {
+        "id": 0,
+        "rt": 5.5561609,
+        "pmz": 507.271858382357,
+        "i": 3094467.8,
+        "charge": 1,
+        "ms2_similarity": 0.932,
+        "metapoint": [
+            "CCCC(C)n1c(C(=O)[NH+](C)C)cc2cnc(Nc3ccc(C(=O)N=CCCCCCNc4cccc5c4C(=O)N(C4CCC(=O)NC4=O)C5=O)cc3)nc21",
+            "Undefined"
+        ],
+        "formula": "{'C': 25, 'H': 33, 'N': 9, 'O': 3}",
+        "mdf_matched": "",
+        "isotopes": 2.0,
+        "adductive": [
+            "[M+CH3OH+Na]+",
+            "[M+H-2H2O]+",
+            "[M+Na]+",
+            "[M+CH3CN+Na]+",
+            "[M+K]+"
+        ],
+        "score": 90.21,
+        "biotransformer": {}
+    },
+    {
+        "id": 1,
+        "rt": 5.6100502,
+        "pmz": 507.272033055012,
+        "i": 426566.0,
+        "charge": 1,
+        "ms2_similarity": 0.952,
+        "metapoint": [
+            "CCCC(C)n1c(C(=O)[NH+](C)C)cc2cnc(Nc3ccc(C(=O)N=CCCCCCNc4cccc5c4C(=O)N(C4CCC(=O)NC4=O)C5=O)cc3)nc21",
+            "Undefined"
+        ],
+        "formula": "{'C': 25, 'H': 33, 'N': 9, 'O': 3}",
+        "mdf_matched": "",
+        "isotopes": 1.888,
+        "adductive": [
+            "[M+Na]+",
+            "[M+K]+",
+            "[M+H-2H2O]+",
+            "[M+CH3CN+H]+",
+            "[M+CH3OH+Na]+"
+        ],
+        "score": 90.53,
+        "biotransformer": {}
+    },
+    {
+        "id": 2,
+        "rt": 5.6531978,
+        "pmz": 507.27208817884,
+        "i": 124376.9,
+        "charge": 1,
+        "ms2_similarity": 0.93,
+        "metapoint": [
+            "CCCC(C)n1c(C(=O)[NH+](C)C)cc2cnc(Nc3ccc(C(=O)N=CCCCCCNc4cccc5c4C(=O)N(C4CCC(=O)NC4=O)C5=O)cc3)nc21",
+            "Undefined"
+        ],
+        "formula": "{'C': 25, 'H': 33, 'N': 9, 'O': 3}",
+        "mdf_matched": "",
+        "isotopes": 1.984,
+        "adductive": [
+            "[M+Na]+",
+            "[M+CH3CN+H]+",
+            "[M+H-2H2O]+",
+            "[M+CH3OH+Na]+",
+            "[M+K]+"
+        ],
+        "score": 89.97,
+        "biotransformer": {}
+    }
+]

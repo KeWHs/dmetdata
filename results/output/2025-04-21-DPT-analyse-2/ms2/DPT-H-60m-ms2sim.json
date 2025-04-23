@@ -1,0 +1,60 @@
+[
+    {
+        "id": 2,
+        "rt": 5.1418739,
+        "pmz": 560.769241410175,
+        "i": 1332255.4,
+        "charge": 2,
+        "ms2_similarity": 0.999,
+        "metapoint": [],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 74}",
+        "mdf_matched": "parent",
+        "isotopes": 1.995,
+        "adductive": [],
+        "score": 99.89,
+        "biotransformer": {}
+    },
+    {
+        "id": 1,
+        "rt": 5.1132345,
+        "pmz": 481.184932413327,
+        "i": 68525.7,
+        "charge": 1,
+        "ms2_similarity": 0.469,
+        "metapoint": [],
+        "formula": "{'C': 26, 'F': 3, 'H': 24, 'N': 4, 'O': 2, 'S': 0}",
+        "mdf_matched": "Neutral loss 54",
+        "isotopes": 1.955,
+        "adductive": [],
+        "score": 62.38,
+        "biotransformer": {
+            "product": "OC1=CC(C2=C(F)C=C3C(N4C[C@@H]5N[C@H](C4)CC5)=NC(O)=NC3=C2F)=C6C(CC)=C(F)C=CC6=C1",
+            "enzymes": [
+                "CYP1A2",
+                "CYP2A6",
+                "CYP2C9",
+                "CYP2C19",
+                "CYP2D6",
+                "CYP2E1",
+                "CYP3A4"
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "rt": 5.1851549,
+        "pmz": 560.769402033901,
+        "i": 357530.1,
+        "charge": 2,
+        "ms2_similarity": 0.994,
+        "metapoint": [],
+        "formula": "{'O': 7, 'C': 60, 'N': 9, 'S': 1, 'F': 3, 'H': 74}",
+        "mdf_matched": "parent",
+        "isotopes": 1.998,
+        "adductive": [
+            "[M+H+NH4]2+"
+        ],
+        "score": 100.53,
+        "biotransformer": {}
+    }
+]
