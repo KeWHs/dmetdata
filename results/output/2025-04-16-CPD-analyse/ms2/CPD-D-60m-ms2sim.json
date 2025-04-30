@@ -113,7 +113,12 @@
             "[M+CH3CN+Na]+"
         ],
         "score": 104.53,
-        "biotransformer": {}
+        "biotransformer": {
+            "product": "C1=CC2=C(C(NCCCCCC(NC(=O)C3=CC=C(NC4=NC=C5C=C(C(=O)N(C)C)N(C6CCCC6)C5=N4)C=C3)O)=C1)C(=O)N(C7C(=O)NC(=O)CC7)C2=O",
+            "enzymes": [
+                "CYP3A4"
+            ]
+        }
     },
     {
         "id": 11,

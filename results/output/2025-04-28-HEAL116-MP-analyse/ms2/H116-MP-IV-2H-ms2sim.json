@@ -1,0 +1,61 @@
+[
+    {
+        "id": 68,
+        "rt": 5.1754614,
+        "pmz": 548.132250755634,
+        "i": 18238.5,
+        "charge": 1,
+        "ms2_similarity": 0.547,
+        "metapoint": [],
+        "formula": "{'C': 26, 'Cl': 1, 'H': 27, 'N': 1, 'O': 10}",
+        "mdf_matched": "Glucuronidation",
+        "isotopes": 1.999,
+        "adductive": [
+            "[M+Na]+"
+        ],
+        "score": 96.46,
+        "biotransformer": {
+            "product": "O(C1=CC=C2C(=O)C(C3=CC=C(CN4CCOCC4)C(Cl)=C3)=COC2=C1)C5C(C(O)C(C(O5)C(O)=O)O)O",
+            "enzymes": [
+                "EC 2.4.1.17"
+            ]
+        }
+    },
+    {
+        "id": 125,
+        "rt": 7.2853745,
+        "pmz": 372.099639892578,
+        "i": 18747.1,
+        "charge": 1,
+        "ms2_similarity": 0.572,
+        "metapoint": [
+            "Undefined",
+            "Undefined"
+        ],
+        "formula": "{'O': 4, 'C': 20, 'Cl': 1, 'N': 1, 'H': 19}",
+        "mdf_matched": "parent",
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 95.72,
+        "biotransformer": {}
+    },
+    {
+        "id": 127,
+        "rt": 7.3258408,
+        "pmz": 372.100219726563,
+        "i": 10261.8,
+        "charge": 1,
+        "ms2_similarity": 0.608,
+        "metapoint": [
+            "Undefined",
+            "Undefined",
+            "[CH+]=c1ccc(=C2COC=C(C#CC(=C)O)C2=O)cc1Cl"
+        ],
+        "formula": "{'O': 4, 'C': 20, 'Cl': 1, 'N': 1, 'H': 19}",
+        "mdf_matched": "parent",
+        "isotopes": 2.0,
+        "adductive": [],
+        "score": 96.08,
+        "biotransformer": {}
+    }
+]

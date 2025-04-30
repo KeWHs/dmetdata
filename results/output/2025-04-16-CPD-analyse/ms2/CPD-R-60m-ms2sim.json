@@ -68,7 +68,19 @@
             "[M+Na]+"
         ],
         "score": 100.75,
-        "biotransformer": {}
+        "biotransformer": {
+            "product": "C1=CC2=C(C(NCCCCCCNC(=O)C3=CC=C(NC4=NC=C5C=C(C(=O)NC)N(C6CCCC6)C5=N4)C=C3)=C1)C(=O)N(C7C(=O)NC(=O)CC7)C2=O",
+            "enzymes": [
+                "CYP1A2",
+                "CYP2A6",
+                "CYP2B6",
+                "CYP2C8",
+                "CYP2C9",
+                "CYP2C19",
+                "CYP2D6",
+                "CYP3A4"
+            ]
+        }
     },
     {
         "id": 6,

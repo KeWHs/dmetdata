@@ -1,0 +1,53 @@
+{
+    "test_mol": "O=C1C(C2=CC(Cl)=C(CN3CCOCC3)C=C2)=COC4=CC(O)=CC=C41",
+    "compound_id": "HEAL116",
+    "data": [
+        "H116_iimn_gnps.mgf"
+    ],
+    "standard": "H116_iimn_gnps.mgf",
+    "blank": [],
+    "prepare": {
+        "type": "+",
+        "parent_charge": 0,
+        "neutral_loss": 0.0,
+        "acquisition_delay": 0.0
+    },
+    "screening": {
+        "ppm_range": 8.0,
+        "signal_base": 500.0,
+        "signal_limit": 1000.0,
+        "similarity_limit": 0.6
+    },
+    "lc_settings": {
+        "retention_start": 4.0,
+        "retention_end": 10.0,
+        "rt_range": 0.05
+    },
+    "cfmid": {
+        "predict_spectrum": false,
+        "skip_fragments": false,
+        "manual_annotation": false
+    },
+    "formulacalc": {
+        "no_mist_cf": false,
+        "disable_fc": false,
+        "formula_range": "",
+        "omega_range": 6
+    },
+    "mdf": {
+        "try_analyse": false,
+        "combine": 1,
+        "main": false
+    },
+    "peak": {
+        "mDa": 10.0,
+        "width": 0.1,
+        "not_merge": false,
+        "score_min": 75.0
+    },
+    "met_predict": {
+        "disable_biotransformer": false
+    },
+    "debug": "",
+    "viewer": "2025-04-29-HEAL116-analyse"
+}

@@ -12,15 +12,14 @@
         ],
         "formula": "{'C': 25, 'H': 33, 'N': 9, 'O': 3}",
         "mdf_matched": "",
-        "isotopes": 2.0,
+        "isotopes": 1.996,
         "adductive": [
-            "[M+CH3OH+Na]+",
-            "[M+H-2H2O]+",
             "[M+Na]+",
             "[M+CH3CN+Na]+",
+            "[M+H-2H2O]+",
             "[M+K]+"
         ],
-        "score": 90.21,
+        "score": 89.17,
         "biotransformer": {}
     },
     {

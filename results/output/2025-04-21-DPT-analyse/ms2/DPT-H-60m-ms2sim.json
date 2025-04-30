@@ -12,14 +12,14 @@
         ],
         "formula": "{'O': 3, 'C': 34, 'F': 3, 'N': 5, 'H': 38}",
         "mdf_matched": "",
-        "isotopes": 0.0,
+        "isotopes": 2.0,
         "adductive": [
             "[M+H-H2O]+",
             "[M+NH4]+",
             "[M+Na]+",
             "[M+CH3CN+Na]+"
         ],
-        "score": 68.23,
+        "score": 88.23,
         "biotransformer": {
             "product": "OC1=CC(C2=C(F)C=C3C(N4C[C@@H]5N[C@H](C4)CC5)=NC(OC[C@H]6N(CCCO)CCC6)=NC3=C2F)=C7C(CC)=C(F)C=CC7=C1",
             "enzymes": [

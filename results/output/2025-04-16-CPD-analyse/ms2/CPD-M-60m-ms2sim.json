@@ -11,12 +11,12 @@
         ],
         "formula": "{'C': 25, 'H': 35, 'N': 9, 'O': 3}",
         "mdf_matched": "",
-        "isotopes": 2.0,
+        "isotopes": 1.973,
         "adductive": [
             "[M+Na]+",
             "[M+H-H2O]+"
         ],
-        "score": 88.31,
+        "score": 88.04,
         "biotransformer": {}
     },
     {
@@ -73,14 +73,13 @@
         ],
         "formula": "{'C': 25, 'H': 33, 'N': 9, 'O': 3}",
         "mdf_matched": "",
-        "isotopes": 2.0,
+        "isotopes": 1.98,
         "adductive": [
-            "[M+CH3CN+Na]+",
-            "[M+H-2H2O]+",
             "[M+Na]+",
+            "[M+H-2H2O]+",
             "[M+K]+"
         ],
-        "score": 89.38,
+        "score": 88.18,
         "biotransformer": {}
     },
     {
