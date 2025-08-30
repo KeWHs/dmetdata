@@ -1,0 +1,5 @@
+data/*.xlsx
+data/mdf
+data/mzmine
+models_ms2deepscore
+*.py
