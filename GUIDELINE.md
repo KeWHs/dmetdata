@@ -24,4 +24,6 @@
 
 6. Wait for the analysis to complete. You can check the detailed logs in the terminal window.
 
-7. Finally, the results will be displayed in the web interface.
+7. Finally, the results will be displayed in the web interface. The results are stored in the **dmetfinder/_internal/DMetFinder/output** folder.
+
+8. For more previous results, you can click the **View All Results** button.
